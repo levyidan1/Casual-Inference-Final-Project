@@ -1,0 +1,1122 @@
+case_id	case_submitter_id	relationship_gender	relationship_primary_diagnosis	relationship_type	relative_with_cancer_history
+63c48188-062c-411d-91c4-7c42764c6ba3	MMRF_2224	'--	'--	'--	unknown
+1cff19f6-baec-437c-a979-d963d43d4a20	MMRF_1518	unknown	Unknown	Unknown	yes
+56a06787-58e9-4cd4-a027-0c0fabcc0983	MMRF_2445	'--	'--	'--	unknown
+27a667a1-6a09-436d-b996-542333ac59cd	MMRF_2605	'--	'--	'--	unknown
+1def61bf-1d48-4579-8c22-96718dce8ccf	MMRF_1564	unknown	Unknown	Child	yes
+34c9551c-f83e-447c-877b-b101208d07b6	MMRF_1309	unknown	Unknown	Unknown	yes
+34c9551c-f83e-447c-877b-b101208d07b6	MMRF_1309	unknown	Multiple Myeloma	Unknown	yes
+4a4710d1-40eb-4365-b733-358b36eea26e	MMRF_1662	unknown	Unknown	Sibling	yes
+26ff983c-83fe-46a0-a3d4-406e2110116a	MMRF_1992	'--	'--	'--	unknown
+e1c03e0f-273e-4119-8fda-5631a361c16f	MMRF_1680	'--	'--	'--	no
+be47e303-eb92-415d-b992-d59bbb6a2f8d	MMRF_2141	female	Unknown	Mother	yes
+8165e3bf-4cef-427a-8a86-884a2269633e	MMRF_1534	'--	'--	'--	no
+9a243d87-c972-41e0-9485-1c9196cb8e2e	MMRF_2397	unknown	Leukemia	Unknown	yes
+ab7861e4-5034-417c-8d28-98b7c68252b3	MMRF_1494	female	Unknown	Mother	yes
+b539f267-ccf2-4308-844d-1dc0e43f6d2f	MMRF_2147	male	Prostate Cancer	Father	yes
+0fb023d4-1952-45f7-a1da-aa38edb9c199	MMRF_1730	male	Prostate Cancer	Father	yes
+090f36ef-3fc1-48fb-b4be-6450d7483487	MMRF_1960	female	Unknown	Mother	yes
+b0c9eb44-47ca-43a8-b1e6-5baeb2682369	MMRF_1694	'--	'--	'--	no
+46cbe0e8-a97f-43ae-bab7-ddb4f760756c	MMRF_1677	'--	'--	'--	unknown
+21a2751c-648d-4526-9b55-099cc1853788	MMRF_2159	male	Prostate Cancer	Father	yes
+083fc59d-32e0-4320-8f67-c8ccbf9ecf77	MMRF_1910	'--	'--	'--	no
+a90e9b42-dc3c-4916-ab66-6c967971cfa0	MMRF_1802	unknown	Kidney Cancer	Sibling	yes
+a90e9b42-dc3c-4916-ab66-6c967971cfa0	MMRF_1802	unknown	Unknown	Sibling	yes
+a90e9b42-dc3c-4916-ab66-6c967971cfa0	MMRF_1802	male	Prostate Cancer	Father	yes
+cd91e38c-1d2a-4534-8765-bfb9f0541338	MMRF_1519	male	Unknown	Paternal Grandfather	yes
+a09931b7-0caa-4c44-a082-3ba3462f09fb	MMRF_1129	'--	'--	'--	no
+d9a29ae3-2b22-4cca-8505-c059a28def8c	MMRF_2339	male	Unknown	Father	yes
+c8a7dd97-2573-4c08-af5c-ae0c50674a52	MMRF_2011	'--	'--	'--	unknown
+51cfbd41-2e79-474c-9e74-0ae13d8924fe	MMRF_2265	'--	'--	'--	no
+01489f5a-650e-4e15-aacf-a8463cbed03c	MMRF_2174	male	Unknown	Father	yes
+8676efb6-126b-4206-b6d6-9fe311392693	MMRF_2151	female	Colorectal Cancer	Mother	yes
+9fb458b7-e7b4-4052-9da9-ddb2f6ef2463	MMRF_2050	'--	'--	'--	unknown
+56765ee0-fa94-4758-b118-6cf940e90c16	MMRF_1164	'--	'--	'--	no
+f623b447-0185-4460-b4b6-c120845d3be5	MMRF_2598	unknown	Lung Cancer	Sibling	yes
+f623b447-0185-4460-b4b6-c120845d3be5	MMRF_2598	female	Breast Cancer	Mother	yes
+79a3389c-279b-4589-aadc-4900c3e7638c	MMRF_2115	female	Breast Cancer	Mother	yes
+79a3389c-279b-4589-aadc-4900c3e7638c	MMRF_2115	male	Lung Cancer	Father	yes
+77da093f-cf72-4643-ad5b-b6f6b18d227b	MMRF_1717	'--	'--	'--	unknown
+3ae2782f-6478-4c9b-9310-655a9961c1f8	MMRF_1735	female	Unknown	Mother	yes
+3ae2782f-6478-4c9b-9310-655a9961c1f8	MMRF_1735	male	Unknown	Father	yes
+4b61e506-f40b-471b-8cbc-daa73cbade18	MMRF_1830	'--	'--	'--	unknown
+cded9579-0f99-483f-9358-fc88d358d67d	MMRF_1491	unknown	Unknown	Sibling	yes
+e2740d98-bca8-4721-82cb-66fb80d2c343	MMRF_2535	'--	'--	'--	no
+49ade113-aca0-4d2d-a783-54681fac24f9	MMRF_1880	'--	'--	'--	unknown
+2fdff68c-7fcb-4c6e-8342-ec598f32c386	MMRF_1490	unknown	Lymphoma	Sibling	yes
+2fdff68c-7fcb-4c6e-8342-ec598f32c386	MMRF_1490	unknown	Unknown	Child	yes
+b8059fa5-8fa3-4a5f-aa8d-3bdf66cbb05f	MMRF_2194	'--	'--	'--	unknown
+79596d6d-0e0f-4955-9035-5008105deb45	MMRF_1588	unknown	Breast Cancer	Sibling	yes
+79596d6d-0e0f-4955-9035-5008105deb45	MMRF_1588	unknown	Breast Cancer	Sibling	yes
+f6fa1482-8bc2-4131-bb77-4ac38bba20d1	MMRF_2172	unknown	Unknown	Sibling	yes
+1457fce6-b646-4e86-a3a2-38b3081acd0a	MMRF_1513	unknown	Unknown	Sibling	yes
+f347042c-6f4e-4277-973b-34f53bdc8e91	MMRF_2223	'--	'--	'--	no
+0621d93d-1397-443f-9223-04c042927505	MMRF_2216	unknown	Lung Cancer	Sibling	yes
+0621d93d-1397-443f-9223-04c042927505	MMRF_2216	unknown	Lymphoma	Sibling	yes
+0621d93d-1397-443f-9223-04c042927505	MMRF_2216	unknown	Unknown	Sibling	yes
+e4e7cbc4-5d41-4d20-8fdf-0328295662ab	MMRF_1810	female	Breast Cancer	Mother	yes
+1fc3d6db-29e4-4cfa-8746-93d867581d17	MMRF_1364	female	Unknown	Mother	yes
+1fc3d6db-29e4-4cfa-8746-93d867581d17	MMRF_1364	male	Prostate Cancer	Father	yes
+c8e4e627-08ef-450b-938e-790c072b7803	MMRF_1951	'--	'--	'--	unknown
+a2f2018e-c40c-4e4a-8542-86c07bd40841	MMRF_1850	male	Lung Cancer	Father	yes
+bcc7d2bf-0093-4882-bd74-bdee0090fc2d	MMRF_2504	'--	'--	'--	unknown
+7cbe1fe9-2d1d-4771-ac2b-c8da10e9d27f	MMRF_1630	male	Colorectal Cancer	Father	yes
+7cbe1fe9-2d1d-4771-ac2b-c8da10e9d27f	MMRF_1630	unknown	Breast Cancer	Child	yes
+3eee1d4b-bb90-42c1-84ce-e0de2d219fa2	MMRF_1359	'--	'--	'--	no
+21c32fd0-13b2-4e72-8697-65180aa9edc9	MMRF_2230	female	Unknown	Mother	yes
+33315555-294e-4fd5-8db6-e33ccc5477fe	MMRF_1415	male	Prostate Cancer	Father	yes
+33315555-294e-4fd5-8db6-e33ccc5477fe	MMRF_1415	male	Multiple Myeloma	Paternal Grandfather	yes
+d30ea4c0-de06-4121-b070-55787d81b841	MMRF_1760	male	Leukemia	Father	yes
+3fa693fe-27d0-48da-8c41-d740747ec62a	MMRF_2573	'--	'--	'--	no
+e9b45c72-c531-42f1-9bd6-97e70020540c	MMRF_2310	'--	'--	'--	unknown
+1e65559f-9949-4c8b-bd90-50e75a237a90	MMRF_2246	'--	'--	'--	no
+0fb528c5-2bdb-494f-9f40-5a248043cda1	MMRF_1881	male	Lung Cancer	Father	yes
+6bcbcb87-1c05-4200-a994-9bf9a8594b6a	MMRF_1766	female	Unknown	Mother	yes
+395b6808-e872-47e2-a8aa-e3cb69c57c22	MMRF_2125	unknown	Unknown	Sibling	yes
+81f289f0-570f-4462-877d-2d2f16367ea0	MMRF_1323	'--	'--	'--	no
+14469c41-becd-4e3b-8511-dd1ffca66087	MMRF_2269	'--	'--	'--	no
+a7e19b05-b3a7-4fac-a483-0f20bd8d4382	MMRF_2611	female	Lung Cancer	Mother	yes
+415c02bc-e6de-4eb7-9b5c-157cfb6aef0e	MMRF_1656	female	Unknown	Mother	yes
+d501e20b-a774-4362-917d-cbde9cbbd6c5	MMRF_1520	'--	'--	'--	no
+9f08cfd6-ec10-41a0-aa8c-7e99a35e925a	MMRF_1130	male	Lung Cancer	Father	yes
+1cd2b2e7-21d4-4e09-b7dc-2178411734b6	MMRF_1817	'--	'--	'--	no
+cfe27fcc-864e-45bc-9b16-f736b9035e0e	MMRF_1797	female	Unknown	Mother	yes
+cfe27fcc-864e-45bc-9b16-f736b9035e0e	MMRF_1797	male	Unknown	Father	yes
+6ce3b375-59a3-49fc-9d6f-1670450d4cf1	MMRF_2328	'--	'--	'--	unknown
+d6173c30-0467-458b-833c-b932ebbd5b21	MMRF_1725	unknown	Prostate Cancer	Sibling	yes
+d6173c30-0467-458b-833c-b932ebbd5b21	MMRF_1725	male	Unknown	Father	yes
+cc8e53fa-84f3-487d-b2f3-15aa16e216e1	MMRF_2606	'--	'--	'--	unknown
+7cb64eb5-ea4a-4461-b140-c8906454a624	MMRF_1792	unknown	Unknown	Unknown	yes
+7cb64eb5-ea4a-4461-b140-c8906454a624	MMRF_1792	unknown	Breast Cancer	Unknown	yes
+15d6bcd0-5cf9-4971-84a3-3eaa990a7b37	MMRF_2292	'--	'--	'--	no
+6bcc0642-12f7-4e7b-93e3-383a7fc3d0c0	MMRF_1771	'--	'--	'--	no
+fea6a14e-c84a-473e-b106-f00997f5bb22	MMRF_1971	'--	'--	'--	no
+b959e7a7-8961-4e1f-b1c4-2cc227b907d6	MMRF_1816	'--	'--	'--	no
+5f144a52-05f1-4b60-b592-d818c006143d	MMRF_2166	'--	'--	'--	unknown
+4dd2a6b7-c0ae-4796-943b-1b41dae75a53	MMRF_2095	male	Prostate Cancer	Father	yes
+4dd2a6b7-c0ae-4796-943b-1b41dae75a53	MMRF_2095	female	Lymphoma	Mother	yes
+4dd2a6b7-c0ae-4796-943b-1b41dae75a53	MMRF_2095	unknown	Leukemia	Sibling	yes
+4dd2a6b7-c0ae-4796-943b-1b41dae75a53	MMRF_2095	unknown	Lymphoma	Child	yes
+4159c7b8-c8a4-435d-ac98-9205b6ac353d	MMRF_1290	unknown	Unknown	Unknown	yes
+a4b08d70-66f7-4236-abf1-17c2f4ad445d	MMRF_2019	'--	'--	'--	no
+a47491e6-0715-4fd9-8cbb-deb2d286d14f	MMRF_1918	female	Breast Cancer	Mother	yes
+a47491e6-0715-4fd9-8cbb-deb2d286d14f	MMRF_1918	male	Lung Cancer	Paternal Grandfather	yes
+c0e899b6-8479-406e-aa39-1db7281992ee	MMRF_1610	'--	'--	'--	no
+73f727a8-d967-4fd2-824a-3b37e2c02271	MMRF_2367	female	Multiple Myeloma	Maternal Grandmother	yes
+738e0773-2eeb-44a6-9dc9-ecb361ccf3bb	MMRF_2143	'--	'--	'--	unknown
+8b86cd08-9096-4ba6-9167-e54a77e356b0	MMRF_2602	male	Unknown	Father	yes
+0f2a444b-c250-46e3-a663-270665009a39	MMRF_1820	male	Prostate Cancer	Father	yes
+0f2a444b-c250-46e3-a663-270665009a39	MMRF_1820	female	Unknown	Mother	yes
+1e80f582-1dcf-4a45-b1a2-0b6ab324a1a3	MMRF_1939	'--	'--	'--	no
+d138a040-c9b8-411e-8997-f83f8a58ea34	MMRF_1205	unknown	Unknown	Sibling	yes
+d138a040-c9b8-411e-8997-f83f8a58ea34	MMRF_1205	male	Prostate Cancer	Father	yes
+82a77e5c-96f6-43a3-b3c0-7ca35f4983f4	MMRF_1373	female	Lung Cancer	Mother	yes
+ebccc0e8-d456-40fc-894a-1152d2f4c0cc	MMRF_1374	female	Unknown	Mother	yes
+ebccc0e8-d456-40fc-894a-1152d2f4c0cc	MMRF_1374	male	Prostate Cancer	Father	yes
+ca7436ce-324c-492a-99b1-0b478a37a028	MMRF_1668	male	Prostate Cancer	Father	yes
+ca7436ce-324c-492a-99b1-0b478a37a028	MMRF_1668	female	Bladder Cancer	Mother	yes
+24d247b5-90b8-4c21-a546-710da7756399	MMRF_2140	'--	'--	'--	no
+546debb0-ca49-46a1-ab23-0c06c8241edc	MMRF_2608	male	Prostate Cancer	Father	yes
+31390787-8aaf-4aa2-bbd2-330e0ad4bfba	MMRF_1837	unknown	Breast Cancer	Unknown	yes
+8d708af1-fcc9-49c1-8c76-d797b2160031	MMRF_1607	'--	'--	'--	no
+e80a5e1f-ead1-464c-8888-5171b622627e	MMRF_2545	unknown	Unknown	Sibling	yes
+e80a5e1f-ead1-464c-8888-5171b622627e	MMRF_2545	unknown	Unknown	Sibling	yes
+e80a5e1f-ead1-464c-8888-5171b622627e	MMRF_2545	male	Unknown	Father	yes
+fba98eb9-442c-415c-b109-bd02b4a71c82	MMRF_1068	'--	'--	'--	no
+271eac13-c1c0-4708-bfff-7a86ac3261d8	MMRF_2222	'--	'--	'--	no
+3a71752b-c040-4dc2-b3e2-fd5e5bb92f9d	MMRF_2063	female	Unknown	Mother	yes
+9c028615-f909-42c9-9dc3-602f424e4730	MMRF_2515	'--	'--	'--	unknown
+380672b8-7ba4-4427-9252-7404b9e6b6dc	MMRF_2021	'--	'--	'--	no
+71d7cb4b-f82a-42f8-88a9-c4ed03466b6d	MMRF_1997	female	Unknown	Mother	yes
+71d7cb4b-f82a-42f8-88a9-c4ed03466b6d	MMRF_1997	male	Prostate Cancer	Father	yes
+71d7cb4b-f82a-42f8-88a9-c4ed03466b6d	MMRF_1997	unknown	Colorectal Cancer	Sibling	yes
+71d7cb4b-f82a-42f8-88a9-c4ed03466b6d	MMRF_1997	unknown	Unknown	Sibling	yes
+7eb4b859-1c00-44a6-b771-c9cbc2cb43c4	MMRF_2079	'--	'--	'--	unknown
+52964e75-33e0-48ca-bb2a-f5156c8cb87d	MMRF_2425	'--	'--	'--	no
+e863eb6f-a0cb-419f-bee3-f5309ae3b7aa	MMRF_2316	'--	'--	'--	no
+a949c727-3293-4448-a7f5-330f0445c9d1	MMRF_2330	male	Leukemia	Father	yes
+a949c727-3293-4448-a7f5-330f0445c9d1	MMRF_2330	unknown	Breast Cancer	Sibling	yes
+ca26ccc6-86ac-4683-9d65-6c88e0198883	MMRF_2153	unknown	Lung Cancer	Sibling	yes
+ca26ccc6-86ac-4683-9d65-6c88e0198883	MMRF_2153	female	Unknown	Mother	yes
+3f17e0fb-e10a-4061-8378-709a91a4cc13	MMRF_2119	'--	'--	'--	no
+55f38380-cd5f-4979-8280-e5aeae77dee1	MMRF_1801	unknown	Prostate Cancer	Sibling	yes
+55f38380-cd5f-4979-8280-e5aeae77dee1	MMRF_1801	male	Unknown	Father	yes
+a7107e40-065a-47f6-a4ea-eb7ab9c906bb	MMRF_2290	unknown	Breast Cancer	Sibling	yes
+41245fe3-fb04-464b-9daa-48bec52665ac	MMRF_1674	'--	'--	'--	no
+9596f35b-f8d9-4232-9309-9c90371c208f	MMRF_1574	'--	'--	'--	no
+6ba33f7b-c952-4c39-b7b7-0599f5109263	MMRF_2488	'--	'--	'--	no
+0a0829db-261d-44ad-9910-784559c0f201	MMRF_1342	'--	'--	'--	no
+503dd7a3-4948-4510-a7c1-1e1b44099227	MMRF_2503	male	Unknown	Father	yes
+503dd7a3-4948-4510-a7c1-1e1b44099227	MMRF_2503	unknown	Unknown	Child	yes
+267d0e3b-8dd3-4f8e-8f8e-d75a38d86edb	MMRF_1579	unknown	Prostate Cancer	Child	yes
+267d0e3b-8dd3-4f8e-8f8e-d75a38d86edb	MMRF_1579	unknown	Unknown	Sibling	yes
+b1c7db25-0db6-4ebe-954a-c9c6aae39e88	MMRF_2200	'--	'--	'--	unknown
+0a8fe688-f5aa-4ef2-bbff-5a42a052f57d	MMRF_2186	female	Leukemia	Paternal Grandmother	yes
+0f7bd3fb-8fe8-4c22-a9d1-945053dd213d	MMRF_1537	'--	'--	'--	no
+0bce1225-a86e-40a2-95e4-2dd2096df43e	MMRF_2076	male	Colorectal Cancer	Father	yes
+0bce1225-a86e-40a2-95e4-2dd2096df43e	MMRF_2076	unknown	Colorectal Cancer	Sibling	yes
+ccc6ebdb-618f-4a58-9bc3-c581868f6b29	MMRF_1860	male	Prostate Cancer	Father	yes
+ccc6ebdb-618f-4a58-9bc3-c581868f6b29	MMRF_1860	unknown	Unknown	Sibling	yes
+bc746271-9b4e-49fa-a96e-30bfd6c9001a	MMRF_2498	'--	'--	'--	unknown
+889d29c9-36d6-43f3-a86a-11773e5b7191	MMRF_2124	unknown	Lung Cancer	Sibling	yes
+889d29c9-36d6-43f3-a86a-11773e5b7191	MMRF_2124	unknown	Unknown	Child	yes
+6d6eb826-f637-4979-b9b3-73b3f7907238	MMRF_1055	'--	'--	'--	no
+1133db7d-6bbb-4c2a-8649-264b9d69e216	MMRF_1598	'--	'--	'--	unknown
+584d9cab-4f01-42a3-9cea-91ddb1062777	MMRF_1128	female	Melanoma	Mother	yes
+ab6678eb-ce53-4e9c-bbb5-749334674333	MMRF_2364	male	Lung Cancer	Paternal Grandfather	yes
+60810d09-fee2-42a5-bd4a-865337ceeac5	MMRF_1523	female	Colorectal Cancer	Mother	yes
+9232adfb-7715-45aa-b274-0f53518e65f5	MMRF_2452	'--	'--	'--	unknown
+a5e50950-146d-45cf-adea-c9ae1366360e	MMRF_1664	female	Unknown	Mother	yes
+a5e50950-146d-45cf-adea-c9ae1366360e	MMRF_1664	unknown	Breast Cancer	Sibling	yes
+a5e50950-146d-45cf-adea-c9ae1366360e	MMRF_1664	unknown	Colorectal Cancer	Sibling	yes
+7903893f-3929-4086-93ce-caab4a211027	MMRF_1325	female	Breast Cancer	Mother	yes
+cfccb7e5-b75f-4507-90d0-4daa457ced92	MMRF_2383	'--	'--	'--	no
+74f00e60-0c8e-4d4d-b7d1-1cedcf836391	MMRF_1112	'--	'--	'--	no
+ba2be3d7-4305-4dc3-a912-cf85440492e0	MMRF_1500	unknown	Unknown	Sibling	yes
+ba2be3d7-4305-4dc3-a912-cf85440492e0	MMRF_1500	male	Multiple Myeloma	Maternal Grandfather	yes
+5c43e5c4-d371-481c-8763-542fea3f737d	MMRF_1497	female	Lung Cancer	Mother	yes
+d81a6c52-6b59-4bd6-b5b1-a22093b0f051	MMRF_2152	'--	'--	'--	unknown
+9c3c8e77-676c-4bc4-9c29-8511d0528e71	MMRF_1533	'--	'--	'--	no
+61a625e1-1c07-449d-8827-fc18f04aea26	MMRF_2599	unknown	Unknown	Sibling	yes
+59873ab0-7a19-4616-87d4-f9f515a73265	MMRF_2365	'--	'--	'--	unknown
+c14ebb1c-a429-4954-a7d2-0fbbd2236e39	MMRF_2308	unknown	Unknown	Sibling	yes
+0ed5c242-5432-462e-9fcb-13e4b6460840	MMRF_1706	male	Prostate Cancer	Father	yes
+0ed5c242-5432-462e-9fcb-13e4b6460840	MMRF_1706	female	Colorectal Cancer	Maternal Grandmother	yes
+0ed5c242-5432-462e-9fcb-13e4b6460840	MMRF_1706	female	Melanoma	Mother	yes
+0ed5c242-5432-462e-9fcb-13e4b6460840	MMRF_1706	unknown	Prostate Cancer	Sibling	yes
+0ed5c242-5432-462e-9fcb-13e4b6460840	MMRF_1706	unknown	Melanoma	Sibling	yes
+0ed5c242-5432-462e-9fcb-13e4b6460840	MMRF_1706	unknown	Melanoma	Sibling	yes
+0ed5c242-5432-462e-9fcb-13e4b6460840	MMRF_1706	female	Colorectal Cancer	Mother	yes
+0ed5c242-5432-462e-9fcb-13e4b6460840	MMRF_1706	unknown	Unknown	Sibling	yes
+d7c8c72f-7ca5-44f2-a1ad-ca139df3ac07	MMRF_1474	'--	'--	'--	unknown
+36df6041-8d49-4c46-88cc-ee1684bd78f7	MMRF_1284	'--	'--	'--	unknown
+b03091a4-be70-44d2-a3fe-e0eeeee4e478	MMRF_1401	'--	'--	'--	no
+fc104d34-4258-4d93-841e-9196318c2a88	MMRF_1555	unknown	Lung Cancer	Sibling	yes
+fc104d34-4258-4d93-841e-9196318c2a88	MMRF_1555	unknown	Unknown	Sibling	yes
+706d1666-1cd7-4636-b827-229a1293656f	MMRF_2543	'--	'--	'--	unknown
+bedbe1b3-f29e-42c2-b80e-c7a1a510af80	MMRF_2253	unknown	Breast Cancer	Sibling	yes
+bedbe1b3-f29e-42c2-b80e-c7a1a510af80	MMRF_2253	female	Melanoma	Mother	yes
+bedbe1b3-f29e-42c2-b80e-c7a1a510af80	MMRF_2253	male	Prostate Cancer	Father	yes
+7e828008-fa5c-45a7-80eb-910c4f5373a2	MMRF_2149	'--	'--	'--	unknown
+1531b2df-74e5-4201-8848-7bbbb8384245	MMRF_1546	'--	'--	'--	no
+1711a2cb-96b5-4803-81b4-1987b0ccd672	MMRF_1453	male	Unknown	Father	yes
+c28922f7-a2da-4fbc-9c6d-e4d6f540734a	MMRF_1746	'--	'--	'--	no
+23d14752-5484-4b51-9897-f91a8ac333a4	MMRF_1031	'--	'--	'--	no
+d0bfbe4f-7930-4ea5-93f0-06b6457d8ea9	MMRF_2523	'--	'--	'--	unknown
+6356f1f3-7d56-4464-b70c-84eb69b7262c	MMRF_1185	unknown	Unknown	Sibling	yes
+6356f1f3-7d56-4464-b70c-84eb69b7262c	MMRF_1185	female	Unknown	Paternal Grandmother	yes
+6356f1f3-7d56-4464-b70c-84eb69b7262c	MMRF_1185	male	Lung Cancer	Father	yes
+2b81d589-cadc-4f6c-8c23-e5311f758f01	MMRF_2187	'--	'--	'--	unknown
+d090e639-9e47-4e8d-b8d1-433bdaf1e148	MMRF_1876	male	Lung Cancer	Father	yes
+d090e639-9e47-4e8d-b8d1-433bdaf1e148	MMRF_1876	unknown	Breast Cancer	Sibling	yes
+d090e639-9e47-4e8d-b8d1-433bdaf1e148	MMRF_1876	male	Unknown	Maternal Grandfather	yes
+d090e639-9e47-4e8d-b8d1-433bdaf1e148	MMRF_1876	female	Unknown	Mother	yes
+116f4352-4b34-4139-ba0d-84b99ef1beb9	MMRF_1739	'--	'--	'--	no
+7873c1f5-3175-4b68-b8e0-00c1d2b36801	MMRF_1327	female	Unknown	Mother	yes
+7873c1f5-3175-4b68-b8e0-00c1d2b36801	MMRF_1327	male	Prostate Cancer	Father	yes
+089a1abc-aa81-46a2-b02f-f0f78a1b3d84	MMRF_1257	unknown	Unknown	Sibling	yes
+2c2fda4e-7cb5-4417-b5fe-530fa1c5b42a	MMRF_1774	unknown	Lung Cancer	Sibling	yes
+42eb09c6-6769-4818-be02-12667a4b0693	MMRF_1433	'--	'--	'--	no
+c0f183ec-c116-43e6-98d1-f6129c37cd0d	MMRF_1223	'--	'--	'--	no
+56ed99a7-42bb-46a1-acd9-c66733fece55	MMRF_1157	'--	'--	'--	unknown
+1778f74c-366b-48bb-9528-9ac10378389f	MMRF_1071	'--	'--	'--	no
+b7bea28f-ba89-44a1-a082-97d3755d5dfe	MMRF_1539	male	Prostate Cancer	Father	yes
+b7bea28f-ba89-44a1-a082-97d3755d5dfe	MMRF_1539	female	Colorectal Cancer	Mother	yes
+7d0ffbcb-83fd-4bb1-8ef4-f2a6fbf1862a	MMRF_1391	female	Colorectal Cancer	Mother	yes
+0ca48821-c238-4e18-a7aa-a650c3fb5e20	MMRF_2214	'--	'--	'--	unknown
+2fa052cc-1555-4d1b-b495-d7444684d534	MMRF_1312	female	Colorectal Cancer	Mother	yes
+2fa052cc-1555-4d1b-b495-d7444684d534	MMRF_1312	unknown	Lymphoma	Sibling	yes
+2fa052cc-1555-4d1b-b495-d7444684d534	MMRF_1312	male	Unknown	Father	yes
+78dc4445-f0c6-4102-8893-190085c26397	MMRF_2307	'--	'--	'--	no
+35fdb692-1b15-46e8-ba32-a78f3068698f	MMRF_1560	'--	'--	'--	no
+a25ce687-1d4a-4c58-a010-af8c648c9f79	MMRF_2327	'--	'--	'--	unknown
+d00e73a5-08e5-42cf-9634-512e084d8d87	MMRF_2596	'--	'--	'--	unknown
+7e94e803-d2d4-477b-90c5-b48e342b581d	MMRF_2074	'--	'--	'--	no
+bda1aa13-82d0-4a2b-959a-099f3a7661dd	MMRF_1380	'--	'--	'--	unknown
+173ab77d-dd7b-4ef7-b2c3-7179a9170a7b	MMRF_1314	male	Lymphoma	Father	yes
+2dcda5a0-4cd2-4162-9bea-cc5f1433724b	MMRF_1210	unknown	Unknown	Unknown	yes
+2dcda5a0-4cd2-4162-9bea-cc5f1433724b	MMRF_1210	female	Unknown	Mother	yes
+2dcda5a0-4cd2-4162-9bea-cc5f1433724b	MMRF_1210	unknown	Unknown	Sibling	yes
+3f80c201-c9bb-46b8-ade1-ad047574a553	MMRF_2107	'--	'--	'--	no
+3c3f0b7d-6fdb-4b13-9e20-68b316a0cc94	MMRF_2288	'--	'--	'--	no
+dd0b8ccc-0032-42bb-a796-3e023b99582b	MMRF_2366	'--	'--	'--	unknown
+ad1da7b1-673c-494a-9752-4f01ffc6a4b6	MMRF_2438	'--	'--	'--	no
+e5e1049b-1566-4683-81e4-af1af5c94605	MMRF_2453	'--	'--	'--	no
+0094e07c-1595-402e-9d38-68b9cac71e7b	MMRF_1038	'--	'--	'--	no
+6a527afa-c05e-4e7f-99f6-cae65423ee68	MMRF_1858	'--	'--	'--	no
+c969e907-60dc-4cc3-a2ea-ea8794e1ce57	MMRF_2526	'--	'--	'--	unknown
+770685f0-96ae-4f29-a748-e6593e10b931	MMRF_1727	female	Colorectal Cancer	Mother	yes
+851f305b-e03c-4648-9400-facaa7123cc6	MMRF_1889	'--	'--	'--	no
+10e80d8a-797e-4efb-bda0-b3271f7207b4	MMRF_1999	female	Breast Cancer	Paternal Grandmother	yes
+10e80d8a-797e-4efb-bda0-b3271f7207b4	MMRF_1999	female	Lymphoma	Paternal Grandmother	yes
+10e80d8a-797e-4efb-bda0-b3271f7207b4	MMRF_1999	male	Leukemia	Father	yes
+ae7a8c0b-3157-4852-a8e5-302f1165882c	MMRF_1432	'--	'--	'--	unknown
+0982a453-8ddd-40af-b03f-d0160226a0b4	MMRF_2478	'--	'--	'--	no
+3d5ebf3f-0cbd-458a-820d-65652e9682d7	MMRF_2081	male	Unknown	Father	yes
+3d5ebf3f-0cbd-458a-820d-65652e9682d7	MMRF_2081	unknown	Unknown	Sibling	yes
+3d5ebf3f-0cbd-458a-820d-65652e9682d7	MMRF_2081	unknown	Unknown	Sibling	yes
+3d5ebf3f-0cbd-458a-820d-65652e9682d7	MMRF_2081	female	Unknown	Mother	yes
+5f1be704-5a13-44a6-8ba0-b277620c7d87	MMRF_2614	'--	'--	'--	unknown
+94b897d9-207d-4f74-b413-83452cf42172	MMRF_2517	'--	'--	'--	no
+8e39bdf0-044d-4e25-a7ac-14239117e580	MMRF_1871	male	Melanoma	Father	yes
+8e39bdf0-044d-4e25-a7ac-14239117e580	MMRF_1871	female	Breast Cancer	Mother	yes
+b1295fc9-a0ce-4e60-b6d5-a28234c5b3e4	MMRF_1283	'--	'--	'--	unknown
+fa1557d6-e713-4e32-804b-3e9f8751a282	MMRF_1308	'--	'--	'--	unknown
+ea1a2862-60a9-485e-ae35-ec35ad856cc7	MMRF_1773	'--	'--	'--	no
+7e683316-3409-49ec-af3e-474d21edbeb5	MMRF_1506	female	Unknown	Mother	yes
+7089287d-86e9-4e0d-b687-fef149f4e476	MMRF_1392	male	Lung Cancer	Maternal Grandfather	yes
+1ae87b38-ecbe-4e09-92d3-84a2c11f08fd	MMRF_1061	'--	'--	'--	no
+44a131d8-88d4-4068-bc2f-6db35d7bddc0	MMRF_1676	male	Prostate Cancer	Father	yes
+7ddaf10e-a09f-4d8d-9c2d-0fad5e83a13d	MMRF_1261	female	Lung Cancer	Mother	yes
+d7d3840a-b1bc-4ab4-8805-5c4bc4c6f354	MMRF_2380	'--	'--	'--	no
+db3f8b94-ddec-44c2-a20c-523901e5adf7	MMRF_1360	male	Prostate Cancer	Father	yes
+db3f8b94-ddec-44c2-a20c-523901e5adf7	MMRF_1360	unknown	Colorectal Cancer	Sibling	yes
+db3f8b94-ddec-44c2-a20c-523901e5adf7	MMRF_1360	unknown	Breast Cancer	Sibling	yes
+917a7c76-8206-4204-a834-00ca88da38ef	MMRF_1242	unknown	Colorectal Cancer	Sibling	yes
+917a7c76-8206-4204-a834-00ca88da38ef	MMRF_1242	unknown	Unknown	Sibling	yes
+917a7c76-8206-4204-a834-00ca88da38ef	MMRF_1242	unknown	Lung Cancer	Sibling	yes
+05ba7768-7d72-4194-91ac-982e57a8b03d	MMRF_1403	unknown	Prostate Cancer	Sibling	yes
+05ba7768-7d72-4194-91ac-982e57a8b03d	MMRF_1403	male	Lung Cancer	Paternal Grandfather	yes
+1ebbf486-4cfa-44e1-a1a6-87ac0f09f0ce	MMRF_1931	'--	'--	'--	unknown
+8d70ba38-4181-4126-92d1-ff43c9d59b55	MMRF_2326	'--	'--	'--	no
+29d6fb90-cf93-4e01-b6c8-742c6e6b6dad	MMRF_1833	'--	'--	'--	no
+633aa310-32d7-4d53-9abd-ef127b6cf328	MMRF_1900	unknown	Prostate Cancer	Sibling	yes
+633aa310-32d7-4d53-9abd-ef127b6cf328	MMRF_1900	unknown	Unknown	Sibling	yes
+633aa310-32d7-4d53-9abd-ef127b6cf328	MMRF_1900	unknown	Lung Cancer	Sibling	yes
+0f00e9ca-b8ab-468f-a5f5-087e6b3718ee	MMRF_2016	'--	'--	'--	no
+f3bd395b-bd40-473a-ae14-b8b3b083f732	MMRF_1659	female	Multiple Myeloma	Mother	yes
+edfc88a2-da96-4d8c-97ef-fcbcd4d2adb2	MMRF_2047	unknown	Unknown	Sibling	yes
+edfc88a2-da96-4d8c-97ef-fcbcd4d2adb2	MMRF_2047	unknown	Unknown	Unknown	yes
+fd4114d1-abf7-43ae-9da8-6fcf0ab26386	MMRF_2007	'--	'--	'--	no
+9cb60de9-3a22-4016-944a-68d5523c4e67	MMRF_1970	'--	'--	'--	unknown
+43967950-7bb0-4de4-a20a-635001c80aa5	MMRF_1152	female	Unknown	Mother	yes
+43967950-7bb0-4de4-a20a-635001c80aa5	MMRF_1152	unknown	Prostate Cancer	Sibling	yes
+43967950-7bb0-4de4-a20a-635001c80aa5	MMRF_1152	unknown	Prostate Cancer	Sibling	yes
+e60be9a5-3cf1-4537-a839-e107b0f4a844	MMRF_1090	'--	'--	'--	no
+c034d0c6-4806-44a9-a620-602409ce18f3	MMRF_1568	'--	'--	'--	no
+0165ada0-f393-4ffb-8f80-6d87f830584d	MMRF_2168	'--	'--	'--	no
+72e18d49-073c-4fbe-86bb-716d1360786a	MMRF_1822	'--	'--	'--	unknown
+0b64552e-7610-446f-aa2d-79b10e034e13	MMRF_2203	'--	'--	'--	unknown
+57744ea1-673b-422a-bb9c-f06aed93b3b5	MMRF_1365	'--	'--	'--	no
+0f98b1a9-13d4-41be-87dd-20f6bb76de52	MMRF_2150	'--	'--	'--	no
+2ec27dee-37a7-4043-8bc1-a20c73d0e22b	MMRF_2017	'--	'--	'--	no
+b5d9c7af-3926-4a3f-a52b-9ae6e2255c5a	MMRF_2519	male	Lung Cancer	Father	yes
+b5d9c7af-3926-4a3f-a52b-9ae6e2255c5a	MMRF_2519	female	Unknown	Mother	yes
+3d76ac74-5848-4e34-90ce-33c1beb88912	MMRF_1955	'--	'--	'--	no
+0e0de479-ea3d-4472-a716-6f7fd7144d2c	MMRF_1260	'--	'--	'--	unknown
+e06995bc-96ff-4740-99ef-5593c03ba90e	MMRF_2564	female	Multiple Myeloma	Mother	yes
+798c8e5f-360a-48ac-bed1-4f49a186c7e0	MMRF_2038	female	Unknown	Paternal Grandmother	yes
+798c8e5f-360a-48ac-bed1-4f49a186c7e0	MMRF_2038	female	Breast Cancer	Mother	yes
+b70aed1f-ffa9-4d0c-8a4c-f75f330a0d16	MMRF_1339	unknown	Breast Cancer	Sibling	yes
+e6cbbc04-f3dc-496c-84eb-1f348e2196e0	MMRF_1354	unknown	Unknown	Sibling	yes
+e6cbbc04-f3dc-496c-84eb-1f348e2196e0	MMRF_1354	unknown	Unknown	Sibling	yes
+e6cbbc04-f3dc-496c-84eb-1f348e2196e0	MMRF_1354	unknown	Unknown	Sibling	yes
+d198b031-271b-42d7-8a02-69ce094b148a	MMRF_2373	'--	'--	'--	unknown
+c62170e0-7a82-4e36-b384-6fc0e7a18cfe	MMRF_1720	'--	'--	'--	no
+fd98803b-0edf-42dc-b3f3-1780111fe48e	MMRF_1998	female	Colorectal Cancer	Mother	yes
+2ff5c839-e056-4fcc-a4a5-43f11535024e	MMRF_2401	'--	'--	'--	unknown
+4530d2de-f148-49f2-b956-042630696607	MMRF_2055	'--	'--	'--	no
+c890ba71-335c-48d6-a184-abf26948eef2	MMRF_1845	male	'--	Father	no
+3bfb8a82-4b5f-49b6-bb27-5b756b1f3eed	MMRF_1625	'--	'--	'--	no
+8748709a-73b9-4807-a874-4a54b6b83118	MMRF_1202	male	Prostate Cancer	Father	yes
+8748709a-73b9-4807-a874-4a54b6b83118	MMRF_1202	female	Breast Cancer	Mother	yes
+e59bd9ff-ffa1-4aa0-a18a-1c8dd9e9b39a	MMRF_1320	'--	'--	'--	unknown
+413f58e8-677c-4776-b5f2-c68912dccbf9	MMRF_2567	'--	'--	'--	no
+9aadd809-f84b-41b7-9b6a-11b914e9fb08	MMRF_1569	unknown	Breast Cancer	Sibling	yes
+84d37b34-6a7e-4679-aa14-a53b4f20b956	MMRF_1654	'--	'--	'--	unknown
+943dee3d-b01e-440d-81de-35a3bdae1941	MMRF_2562	female	Unknown	Maternal Grandmother	yes
+943dee3d-b01e-440d-81de-35a3bdae1941	MMRF_2562	male	Unknown	Maternal Grandfather	yes
+383f9e8e-7814-4e2a-a66e-1fd1f90bdf62	MMRF_1682	'--	'--	'--	unknown
+6c2cc90b-022d-495f-9363-0242fd5130eb	MMRF_2400	'--	'--	'--	unknown
+b3a97996-7b5c-4f12-9a5e-c3f921081b06	MMRF_1151	'--	'--	'--	no
+c07b285d-2532-4d71-9372-2da12f7a5a3f	MMRF_1212	'--	'--	'--	no
+cb054f6b-8e68-4846-9bdf-01ad9039d45a	MMRF_2272	male	Lung Cancer	Father	yes
+34e1585c-8b4e-4dbd-a637-aef6bb22dcc6	MMRF_1547	male	Colorectal Cancer	Father	yes
+34e1585c-8b4e-4dbd-a637-aef6bb22dcc6	MMRF_1547	female	Colorectal Cancer	Paternal Grandmother	yes
+abec123c-77e7-48b8-9054-41cd52fb1db8	MMRF_2144	'--	'--	'--	unknown
+8a90e712-3efe-4911-80f2-f030eca424b7	MMRF_1589	'--	'--	'--	no
+7964181c-916b-4d83-817a-4d6e489f94c9	MMRF_1945	male	Lung Cancer	Father	yes
+7964181c-916b-4d83-817a-4d6e489f94c9	MMRF_1945	female	Breast Cancer	Mother	yes
+5461b1f9-b4d0-4f76-97c8-f8ea3940f29a	MMRF_2471	unknown	Kidney Cancer	Unknown	yes
+5461b1f9-b4d0-4f76-97c8-f8ea3940f29a	MMRF_2471	female	Lung Cancer	Mother	yes
+5461b1f9-b4d0-4f76-97c8-f8ea3940f29a	MMRF_2471	unknown	Unknown	Unknown	yes
+5461b1f9-b4d0-4f76-97c8-f8ea3940f29a	MMRF_2471	unknown	Lung Cancer	Unknown	yes
+5461b1f9-b4d0-4f76-97c8-f8ea3940f29a	MMRF_2471	male	Lung Cancer	Father	yes
+8047da06-f35e-4211-b218-60cfc2cc7309	MMRF_2112	unknown	Unknown	Unknown	yes
+8047da06-f35e-4211-b218-60cfc2cc7309	MMRF_2112	unknown	Lung Cancer	Unknown	yes
+8047da06-f35e-4211-b218-60cfc2cc7309	MMRF_2112	unknown	Breast Cancer	Unknown	yes
+8047da06-f35e-4211-b218-60cfc2cc7309	MMRF_2112	male	Prostate Cancer	Father	yes
+df55ecae-7871-42da-bd85-195425f539e0	MMRF_1755	unknown	Melanoma	Sibling	yes
+1eb5a034-f107-42f8-ac42-b0fe57514701	MMRF_1994	male	Colorectal Cancer	Father	yes
+1eb5a034-f107-42f8-ac42-b0fe57514701	MMRF_1994	unknown	Unknown	Sibling	yes
+c08bd66a-e697-46cc-96fd-c2af679d94f4	MMRF_1617	'--	'--	'--	no
+7bd4783d-8c72-484c-adc4-4b374d116e04	MMRF_2386	'--	'--	'--	no
+495ed739-8eda-41a3-ad63-45bf76568094	MMRF_2268	'--	'--	'--	no
+05609743-ed5e-4e27-8ef7-c404afb0c3c2	MMRF_1703	unknown	Unknown	Sibling	yes
+05609743-ed5e-4e27-8ef7-c404afb0c3c2	MMRF_1703	female	Breast Cancer	Mother	yes
+8b150be2-76c9-40c9-a5c1-7f11b2f28613	MMRF_1348	male	Lung Cancer	Father	yes
+6db6472e-a16d-4e85-90c6-dba794bc38d1	MMRF_1452	male	Leukemia	Father	yes
+2d4eff51-ba20-4a3d-8628-f64fea7c5c99	MMRF_1972	unknown	Breast Cancer	Sibling	yes
+2d4eff51-ba20-4a3d-8628-f64fea7c5c99	MMRF_1972	female	Unknown	Mother	yes
+b53d32bf-44fb-4135-9c10-037fe46ca1e9	MMRF_1824	male	Prostate Cancer	Father	yes
+b53d32bf-44fb-4135-9c10-037fe46ca1e9	MMRF_1824	unknown	Prostate Cancer	Sibling	yes
+b53d32bf-44fb-4135-9c10-037fe46ca1e9	MMRF_1824	unknown	Breast Cancer	Unknown	yes
+119c1bf9-97a6-46ad-a22e-02425fb649f5	MMRF_1867	'--	'--	'--	no
+34eaf0d5-6b79-435f-8f74-276ce012099a	MMRF_1436	female	Colorectal Cancer	Mother	yes
+34eaf0d5-6b79-435f-8f74-276ce012099a	MMRF_1436	male	Unknown	Father	yes
+cd65fe57-6e09-4436-aa93-6fb784372ef0	MMRF_1542	'--	'--	'--	unknown
+2310d7bc-0e5a-4dc5-bf55-71d2336b843a	MMRF_2449	unknown	Unknown	Unknown	yes
+2310d7bc-0e5a-4dc5-bf55-71d2336b843a	MMRF_2449	female	Colorectal Cancer	Mother	yes
+2310d7bc-0e5a-4dc5-bf55-71d2336b843a	MMRF_2449	female	Breast Cancer	Maternal Grandmother	yes
+ce950fb2-be89-4061-a3af-a104d8021530	MMRF_2226	male	Prostate Cancer	Father	yes
+ce950fb2-be89-4061-a3af-a104d8021530	MMRF_2226	unknown	Lung Cancer	Sibling	yes
+ce950fb2-be89-4061-a3af-a104d8021530	MMRF_2226	unknown	Breast Cancer	Unknown	yes
+c7d6451a-8653-4fb8-a433-ba7e00047c8d	MMRF_1686	male	Lung Cancer	Paternal Grandfather	yes
+c7d6451a-8653-4fb8-a433-ba7e00047c8d	MMRF_1686	unknown	Breast Cancer	Unknown	yes
+f65c5bfa-cf3b-4c03-a4b4-47c8d935960b	MMRF_1267	'--	'--	'--	no
+0818bdf7-9c1a-413f-873a-3d6d8fbbe6d7	MMRF_2225	'--	'--	'--	no
+4ffcbb59-123b-4494-bd0a-b3932bbc0704	MMRF_2341	'--	'--	'--	no
+dfbc5887-a5a6-486f-b273-7c3718996975	MMRF_1510	male	Unknown	Father	yes
+62d34e48-70e6-49be-a94e-390d2de2181e	MMRF_1331	female	Unknown	Mother	yes
+b2fd8920-66d7-4496-991a-b79e2a50130e	MMRF_2563	'--	'--	'--	no
+48fed608-6018-452b-8f33-0881dd43abc1	MMRF_2087	'--	'--	'--	no
+59af5b70-9d0d-48c7-ab20-1bcba14eb03b	MMRF_1978	unknown	Unknown	Sibling	yes
+59af5b70-9d0d-48c7-ab20-1bcba14eb03b	MMRF_1978	unknown	Prostate Cancer	Sibling	yes
+5acd53e7-d29a-492a-b5e4-236a1e9dc2e6	MMRF_2239	female	Unknown	Mother	yes
+5acd53e7-d29a-492a-b5e4-236a1e9dc2e6	MMRF_2239	unknown	Unknown	Sibling	yes
+5acd53e7-d29a-492a-b5e4-236a1e9dc2e6	MMRF_2239	male	Lung Cancer	Father	yes
+ace7303c-286a-45f2-ac3f-f1a76810ebab	MMRF_1048	'--	'--	'--	no
+42fef584-82f0-4ea6-b89f-8cbea165f1c0	MMRF_1637	male	Bladder Cancer	Father	yes
+5bde0059-5b21-4696-bacd-825c2f489996	MMRF_1281	'--	'--	'--	no
+6b9d857e-e76b-4901-8959-506801628eaf	MMRF_2428	female	Unknown	Mother	yes
+6b9d857e-e76b-4901-8959-506801628eaf	MMRF_2428	male	Unknown	Father	yes
+9046fcfb-0e05-48fc-a311-d6ef2a422ae1	MMRF_2531	'--	'--	'--	no
+09d67a3e-d4d7-4a96-84c7-0c3af1d4a1da	MMRF_2072	male	Prostate Cancer	Father	yes
+742528e7-e938-4fa9-a3b2-ab641feb714c	MMRF_1016	male	Prostate Cancer	Father	yes
+742dda13-fd92-4b91-9832-9dfbbe94bd5c	MMRF_1180	'--	'--	'--	no
+9db4353c-207c-417d-a009-e40f4238c255	MMRF_1851	unknown	'--	Unknown	no
+53f96aa4-cc38-43b2-babb-a758c5db6b63	MMRF_1784	unknown	Unknown	Unknown	yes
+53f96aa4-cc38-43b2-babb-a758c5db6b63	MMRF_1784	female	Unknown	Maternal Grandmother	yes
+11ae0cc0-7d9e-45ab-b3f3-854d1562f77d	MMRF_1577	'--	'--	'--	no
+d05e06fa-4591-4753-bf8c-d735eb6058a3	MMRF_1759	unknown	Lymphoma	Sibling	yes
+1c0cb072-09ff-45d9-a28a-1e8169c82d5f	MMRF_1790	'--	'--	'--	no
+c93b9815-3f76-48c6-8b6c-1ec2ee08825d	MMRF_1906	'--	'--	'--	no
+eb12e341-b691-4a77-ba46-0b009e19f9e9	MMRF_2083	male	Lymphoma	Father	yes
+dca6ccf4-4840-4e29-84b8-e20a81e2b554	MMRF_1504	male	Unknown	Maternal Grandfather	yes
+508e0922-9b00-479d-adf4-12684cf1700a	MMRF_1338	'--	'--	'--	unknown
+1a014df7-5b60-45f7-9194-3cc53c40ca28	MMRF_2490	'--	'--	'--	unknown
+b10c1d2c-b468-4658-8a23-5b0945d47e0e	MMRF_2181	unknown	Colorectal Cancer	Sibling	yes
+b086e8b6-0a9c-47c7-8783-323650c7def6	MMRF_2251	'--	'--	'--	no
+44d76370-2d6f-4faf-a5f8-af9d4a185394	MMRF_1431	unknown	Breast Cancer	Sibling	yes
+3bb63cee-c121-4903-9408-64e5b32152c7	MMRF_1749	unknown	Breast Cancer	Sibling	yes
+3bb63cee-c121-4903-9408-64e5b32152c7	MMRF_1749	female	Lymphoma	Mother	yes
+8bee5c58-aaa5-4456-a5f8-6808b1276911	MMRF_1361	unknown	Colorectal Cancer	Sibling	yes
+ce2d88e3-4ab5-427e-9bd9-98e3c96036f2	MMRF_1489	'--	'--	'--	unknown
+5a283046-afd5-4a09-b557-2cc1830f7ea3	MMRF_2384	'--	'--	'--	unknown
+f62ffd84-6300-4c41-9aa5-d50d29c30215	MMRF_2597	unknown	Colorectal Cancer	Sibling	yes
+f02a53a1-62c5-4e02-bae4-8b9ac0c443fc	MMRF_1634	'--	'--	'--	unknown
+6357d58b-499d-48ac-9195-d42d49fba16c	MMRF_2089	'--	'--	'--	no
+d6742460-d3b9-41f0-98be-f117a8d1609c	MMRF_1049	male	Unknown	Father	yes
+d694fdee-c5fb-4316-bb4b-fe28901ae548	MMRF_1344	'--	'--	'--	no
+c58cb4f8-b1bc-4dc6-b7ed-b847efbb66ab	MMRF_1522	female	Breast Cancer	Mother	yes
+c58cb4f8-b1bc-4dc6-b7ed-b847efbb66ab	MMRF_1522	male	Prostate Cancer	Father	yes
+c58cb4f8-b1bc-4dc6-b7ed-b847efbb66ab	MMRF_1522	unknown	Lymphoma	Sibling	yes
+aa3aae0f-c433-486f-a48b-3dc341cf4ab4	MMRF_1908	female	Breast Cancer	Mother	yes
+aa3aae0f-c433-486f-a48b-3dc341cf4ab4	MMRF_1908	male	Prostate Cancer	Father	yes
+bac9570f-9aee-408f-b17c-c67665a0ccf6	MMRF_1819	female	Lung Cancer	Mother	yes
+7a085dbc-6737-4923-955a-6c7166a35864	MMRF_2442	'--	'--	'--	no
+47bfb313-615e-4016-b85b-fea55adf5c35	MMRF_1516	'--	'--	'--	unknown
+d34741dd-0474-4897-855e-bb505b350b5d	MMRF_1991	'--	'--	'--	unknown
+fbb21714-2fc5-47ad-8aae-118bc54612e3	MMRF_1358	'--	'--	'--	unknown
+175138f4-b09b-4528-96fb-2a22cfcecd2b	MMRF_2419	unknown	Breast Cancer	Sibling	yes
+0578011e-b7d6-40b2-996b-99ac29999d08	MMRF_1930	unknown	Breast Cancer	Sibling	yes
+0578011e-b7d6-40b2-996b-99ac29999d08	MMRF_1930	male	Unknown	Father	yes
+0578011e-b7d6-40b2-996b-99ac29999d08	MMRF_1930	unknown	Breast Cancer	Sibling	yes
+87165f32-1939-4050-ad6e-6e1ffa4f9d14	MMRF_1137	female	Lung Cancer	Mother	yes
+de8855e5-4114-4faf-8134-f6f9ad27c694	MMRF_1235	unknown	Lymphoma	Sibling	yes
+a2e0188e-8fca-4a4e-9da5-69ae7c2c68d6	MMRF_1073	'--	'--	'--	no
+8db0ed0d-03bb-4bc6-917d-4bd861472ed1	MMRF_1475	unknown	Bladder Cancer	Child	yes
+5178a832-10df-4dc2-8c8d-a8a0e7309a77	MMRF_1188	'--	'--	'--	no
+6a0c44b2-497f-4df1-a9e9-8102269a20f7	MMRF_1916	'--	'--	'--	no
+e32bc34b-9732-4be4-b4dd-484ebcc57ff8	MMRF_1672	female	Breast Cancer	Paternal Grandmother	yes
+e32bc34b-9732-4be4-b4dd-484ebcc57ff8	MMRF_1672	female	Breast Cancer	Maternal Grandmother	yes
+96d05ad0-f794-48b8-811d-9506aecb5e26	MMRF_2314	'--	'--	'--	unknown
+c5111085-2ba4-4d1f-9e96-e7e7f39459a7	MMRF_1505	'--	'--	'--	unknown
+2695fb06-0944-4f77-bae9-8230c38c8d0a	MMRF_2554	male	Lung Cancer	Father	yes
+30738494-c141-4d90-801a-7fd2d70ae151	MMRF_1723	'--	'--	'--	no
+6112809d-a4f0-44dc-ab93-b0ed301c2dbc	MMRF_2465	'--	'--	'--	no
+fcf81ad6-734d-43a8-9803-6143cf8b8b77	MMRF_1854	male	Multiple Myeloma	Father	yes
+dc46b442-f86c-440f-b0e2-dd7086d05f2c	MMRF_1957	unknown	Bladder Cancer	Unknown	yes
+dc46b442-f86c-440f-b0e2-dd7086d05f2c	MMRF_1957	unknown	Lung Cancer	Unknown	yes
+a607741b-0df0-43ad-8c60-79e6d7b45a94	MMRF_1389	'--	'--	'--	unknown
+5d29ee5d-666c-4112-a8b4-de9f7bcd52ce	MMRF_2489	'--	'--	'--	no
+d92b88aa-4160-49ed-b5a2-f0d7b06fd985	MMRF_1085	male	Prostate Cancer	Father	yes
+d92b88aa-4160-49ed-b5a2-f0d7b06fd985	MMRF_1085	female	Leukemia	Mother	yes
+e8280528-4fd6-44fc-b15b-72c78e4161bf	MMRF_1721	'--	'--	'--	no
+86a892e1-0cf8-4818-87f6-9d3b1bc97468	MMRF_1768	unknown	Unknown	Sibling	yes
+86a892e1-0cf8-4818-87f6-9d3b1bc97468	MMRF_1768	female	Bladder Cancer	Mother	yes
+86a892e1-0cf8-4818-87f6-9d3b1bc97468	MMRF_1768	unknown	Unknown	Sibling	yes
+86a892e1-0cf8-4818-87f6-9d3b1bc97468	MMRF_1768	unknown	Breast Cancer	Sibling	yes
+4fdd7e1f-a30d-44f4-8f1b-21d9c43a8572	MMRF_1897	unknown	Unknown	Unknown	yes
+62c565fb-13c2-479d-871c-697d4db8cb72	MMRF_2126	'--	'--	'--	no
+c5ef6c5d-ca25-4975-aa27-0a21b3dc0cf7	MMRF_1753	unknown	Lung Cancer	Sibling	yes
+9f5b0c9f-c38c-4fea-817e-efb3ba8c4404	MMRF_2353	male	Lung Cancer	Father	yes
+2989ecbc-89f5-428b-9b0e-c5ac32a0c309	MMRF_1456	'--	'--	'--	no
+d074356e-199c-49fd-8a2a-57419505bca2	MMRF_1454	female	Lung Cancer	Mother	yes
+d074356e-199c-49fd-8a2a-57419505bca2	MMRF_1454	male	Unknown	Father	yes
+d3abb537-dc9e-4263-98c6-ce12b119fd85	MMRF_2236	'--	'--	'--	no
+3f6b75a7-1326-470b-8e3a-4558c813cd51	MMRF_2436	male	Unknown	Father	yes
+3f6b75a7-1326-470b-8e3a-4558c813cd51	MMRF_2436	female	Leukemia	Mother	yes
+9860a185-10db-48cc-94aa-320a8eafa930	MMRF_2324	female	Lung Cancer	Mother	yes
+9860a185-10db-48cc-94aa-320a8eafa930	MMRF_2324	male	Prostate Cancer	Father	yes
+9860a185-10db-48cc-94aa-320a8eafa930	MMRF_2324	unknown	Lung Cancer	Sibling	yes
+0827cff2-e65b-4dfe-afe5-5f902390d4af	MMRF_2000	'--	'--	'--	no
+0ff341b1-82f1-499d-8e8c-3d8561e65697	MMRF_2129	'--	'--	'--	no
+baca798a-2fc1-4b78-9c66-78a4935b336b	MMRF_2217	unknown	Kidney Cancer	Sibling	yes
+73f46ad6-df9e-4525-b1fa-271cb85ba3dc	MMRF_1839	unknown	Unknown	Sibling	yes
+73f46ad6-df9e-4525-b1fa-271cb85ba3dc	MMRF_1839	male	Prostate Cancer	Father	yes
+6033a5b8-684f-4951-a87e-ebafb69822bc	MMRF_1929	female	Colorectal Cancer	Mother	yes
+6033a5b8-684f-4951-a87e-ebafb69822bc	MMRF_1929	unknown	Lung Cancer	Sibling	yes
+dfec409b-10fc-43e3-9ca8-edb95d5419c7	MMRF_2331	'--	'--	'--	unknown
+7dc81b4a-59e9-403a-ab1e-589bd2a24dad	MMRF_1785	unknown	Lung Cancer	Sibling	yes
+e9873dce-bece-45d0-98d3-556e449f6e07	MMRF_1307	'--	'--	'--	no
+ba52d897-736b-4ea7-a304-e8f6933ede90	MMRF_1808	female	'--	Mother	unknown
+747d0455-f33f-44c3-b664-94298998e141	MMRF_1807	unknown	Multiple Myeloma	Sibling	yes
+17c2388c-de15-4ad9-9a3c-83a8574f9578	MMRF_1944	'--	'--	'--	unknown
+2d13b839-d24a-4fb4-ba7b-d357e0237ca9	MMRF_2579	unknown	Prostate Cancer	Sibling	yes
+2d13b839-d24a-4fb4-ba7b-d357e0237ca9	MMRF_2579	unknown	Unknown	Unknown	yes
+2d13b839-d24a-4fb4-ba7b-d357e0237ca9	MMRF_2579	unknown	Unknown	Unknown	yes
+2d13b839-d24a-4fb4-ba7b-d357e0237ca9	MMRF_2579	male	Prostate Cancer	Father	yes
+2d13b839-d24a-4fb4-ba7b-d357e0237ca9	MMRF_2579	unknown	Breast Cancer	Unknown	yes
+9b5dbbf9-dbb3-45ce-985e-be18c763c172	MMRF_1021	male	Unknown	Father	yes
+9b5dbbf9-dbb3-45ce-985e-be18c763c172	MMRF_1021	male	Unknown	Father	yes
+e6b5c105-1d12-47e0-b851-83aa6e9ca55a	MMRF_2170	'--	'--	'--	no
+f5ab2d5f-a52b-4dd0-b75f-b23171ac5a66	MMRF_2056	'--	'--	'--	no
+e60b6e4c-852a-4d05-9619-5eb36788edf1	MMRF_1252	'--	'--	'--	no
+95e89871-bedd-4f62-97c8-f6bc08d86cb8	MMRF_2313	'--	'--	'--	unknown
+a8b6b3f6-fd57-4aed-a1b6-a5165e8baa65	MMRF_2394	unknown	Leukemia	Sibling	yes
+a8b6b3f6-fd57-4aed-a1b6-a5165e8baa65	MMRF_2394	female	Bladder Cancer	Mother	yes
+11f59fe3-0fd2-450a-8a98-153c56c6d769	MMRF_2176	'--	'--	'--	unknown
+3d474556-8c72-4782-8c9f-97b68563b259	MMRF_1922	male	Prostate Cancer	Father	yes
+e41ed7e6-7832-41a9-b816-23986df22808	MMRF_1082	'--	'--	'--	no
+3e11c72c-f141-4abc-9f04-dd8012a601a9	MMRF_2593	'--	'--	'--	no
+9e899f94-e865-421c-9c1b-b0a1900079ca	MMRF_2201	'--	'--	'--	no
+23937dd9-b307-45fa-8d6f-87451ee91993	MMRF_2329	male	Unknown	Father	yes
+734e8d43-2ede-4f66-9c75-5995fb16c275	MMRF_1179	'--	'--	'--	no
+d6e51aeb-799d-40b7-8a00-61220cf0f529	MMRF_1879	'--	'--	'--	no
+8eab3a6b-11f6-4819-a19a-1faeb8e1c52d	MMRF_2404	unknown	Unknown	Unknown	yes
+29c86960-4692-4fd3-b626-20595ec64e0a	MMRF_2043	unknown	Unknown	Sibling	yes
+29c86960-4692-4fd3-b626-20595ec64e0a	MMRF_2043	unknown	Unknown	Sibling	yes
+4764ef54-cd8b-478f-9bc0-66ceaa98e9cd	MMRF_2270	'--	'--	'--	no
+3c59ccac-7330-4034-a7f9-58984676bc31	MMRF_1499	male	Multiple Myeloma	Father	yes
+3c59ccac-7330-4034-a7f9-58984676bc31	MMRF_1499	unknown	Breast Cancer	Sibling	yes
+39bfe159-bbf1-45cb-8bc9-eeb5b4b3016c	MMRF_2012	'--	'--	'--	no
+ed87e0ec-73fa-462e-8be2-dfb9229bbf4d	MMRF_2524	female	Unknown	Paternal Grandmother	yes
+bbceaec2-114b-4de5-a694-7d96078f9612	MMRF_1718	male	Prostate Cancer	Father	yes
+aace550c-5d98-4182-9711-db26a4b4d4a8	MMRF_1722	female	Unknown	Mother	yes
+aace550c-5d98-4182-9711-db26a4b4d4a8	MMRF_1722	unknown	Bladder Cancer	Sibling	yes
+aace550c-5d98-4182-9711-db26a4b4d4a8	MMRF_1722	unknown	Unknown	Sibling	yes
+8dca2518-6012-42be-925e-ae7cd2b713f8	MMRF_1618	'--	'--	'--	no
+20805efb-a12e-4351-b303-b57bcf7653f5	MMRF_2499	'--	'--	'--	unknown
+2d52b7cf-a5b5-4c86-9aee-b273896cbe95	MMRF_2379	female	Unknown	Mother	yes
+00e9cfa7-d2e1-46b8-b0ff-d7f1da925097	MMRF_1054	unknown	Unknown	Child	yes
+6384a5a9-7dc6-48f2-80b1-acb7b20978f0	MMRF_1923	'--	'--	'--	unknown
+a4c12827-4070-4964-b2e0-ccea378e1d0a	MMRF_1890	'--	'--	'--	no
+316127f5-8d88-4434-a760-eb3caa8d383a	MMRF_2237	female	Breast Cancer	Maternal Grandmother	yes
+316127f5-8d88-4434-a760-eb3caa8d383a	MMRF_2237	male	Lung Cancer	Maternal Grandfather	yes
+6708920e-ecd2-4682-8a33-52a64b710f03	MMRF_1346	'--	'--	'--	no
+12d3a070-42a0-4de5-a684-ffae512109a4	MMRF_2493	'--	'--	'--	unknown
+669ad8f2-5339-49b3-a885-ef00d3966be1	MMRF_2173	'--	'--	'--	unknown
+74329eda-5808-47cf-a5b5-7a85b99f5e7a	MMRF_1856	female	Unknown	Mother	yes
+b9071bd7-8172-4eb2-8192-b28d4d9233a8	MMRF_1153	female	Unknown	Paternal Grandmother	yes
+7330f575-6c5b-463a-9cd6-958cc16159d9	MMRF_2005	female	Unknown	Maternal Grandmother	yes
+7330f575-6c5b-463a-9cd6-958cc16159d9	MMRF_2005	male	Unknown	Father	yes
+3ff111c9-5296-4977-88ba-22c933d2e9d4	MMRF_1715	'--	'--	'--	no
+d932945e-727e-4d78-9ae3-1ea119ede6f5	MMRF_1167	'--	'--	'--	unknown
+34221dd7-2cfa-4856-8ba5-a2e1e4c1f279	MMRF_2238	male	Lung Cancer	Father	yes
+34221dd7-2cfa-4856-8ba5-a2e1e4c1f279	MMRF_2238	female	Leukemia	Mother	yes
+e7f28687-fdb2-4dc9-9461-3a297f0860bd	MMRF_1407	'--	'--	'--	no
+e9df379b-d852-49ee-8250-303024c2ab8e	MMRF_1980	'--	'--	'--	unknown
+6dae99a7-88ab-4477-8228-efb00dd3bb8f	MMRF_2300	'--	'--	'--	unknown
+01d7d3ec-10b6-4d78-b8ff-2c089bbc3d6e	MMRF_1861	unknown	Unknown	Sibling	yes
+01d7d3ec-10b6-4d78-b8ff-2c089bbc3d6e	MMRF_1861	unknown	Colorectal Cancer	Sibling	yes
+b578282f-0222-4e0b-af52-39c68484ae4d	MMRF_2197	'--	'--	'--	unknown
+22487ec3-002f-4d29-8ed7-fd1d1ecec22c	MMRF_1963	'--	'--	'--	no
+fdc2ef83-7244-4db6-a417-989c9625b927	MMRF_1888	female	Breast Cancer	Paternal Grandmother	yes
+559c7791-2a92-46a5-95b7-25325e17b300	MMRF_1738	'--	'--	'--	unknown
+de405770-7784-4ca2-991f-2dee14ef221b	MMRF_1496	male	Leukemia	Father	yes
+de405770-7784-4ca2-991f-2dee14ef221b	MMRF_1496	male	Colorectal Cancer	Father	yes
+de405770-7784-4ca2-991f-2dee14ef221b	MMRF_1496	male	Unknown	Father	yes
+67ba43b8-1bd5-4cf0-bea9-f8a624e85a7b	MMRF_1835	'--	'--	'--	no
+70304443-9430-4eda-93a3-02b2b23f22da	MMRF_1570	female	Breast Cancer	Mother	yes
+70304443-9430-4eda-93a3-02b2b23f22da	MMRF_1570	female	Lung Cancer	Mother	yes
+09f10d15-16d9-49c0-973b-23082be323d7	MMRF_1967	'--	'--	'--	no
+acf4c817-cf4f-4a52-b781-d8360e570b2f	MMRF_1683	female	Unknown	Mother	yes
+eef55ab4-7778-4012-a217-4bb1def5a973	MMRF_2106	unknown	Unknown	Sibling	yes
+aef6c82a-78a3-4c65-baca-a79a2d71caa6	MMRF_1965	female	Lung Cancer	Mother	yes
+9c599920-9ed4-4810-9dab-ea23df6e1015	MMRF_2289	'--	'--	'--	unknown
+87e6abec-b58f-4b1c-acc5-7553e746efd2	MMRF_1917	male	Unknown	Paternal Grandfather	yes
+87e6abec-b58f-4b1c-acc5-7553e746efd2	MMRF_1917	female	Breast Cancer	Paternal Grandmother	yes
+87e6abec-b58f-4b1c-acc5-7553e746efd2	MMRF_1917	female	Lung Cancer	Mother	yes
+90b367af-c095-4e7c-9ec6-ebe4356ea4b6	MMRF_2518	'--	'--	'--	unknown
+eed260ad-779e-468e-8313-9bde1f0d60c6	MMRF_1778	'--	'--	'--	unknown
+b032d68e-999f-4788-b486-6058541cfce4	MMRF_1949	unknown	Unknown	Sibling	yes
+b032d68e-999f-4788-b486-6058541cfce4	MMRF_1949	unknown	Breast Cancer	Sibling	yes
+739d4e3c-536a-4760-8f57-1aef50ba3f09	MMRF_1311	'--	'--	'--	no
+61872186-77a2-44bc-a058-930d381491df	MMRF_2469	male	Unknown	Father	yes
+61872186-77a2-44bc-a058-930d381491df	MMRF_2469	female	Lung Cancer	Mother	yes
+ec71e12b-ead0-4dbb-96ce-5897906be766	MMRF_1556	'--	'--	'--	no
+c62f3da1-3ec4-46fb-8981-28a005a52655	MMRF_2132	'--	'--	'--	no
+96342ad0-5028-4c81-88ac-ee61414c585a	MMRF_2229	unknown	Prostate Cancer	Sibling	yes
+7f47229a-3446-449e-b8db-9ac102b13f82	MMRF_1842	'--	'--	'--	no
+7de402ad-469d-4ab4-bc9d-e546a9baf2dc	MMRF_2546	'--	'--	'--	unknown
+a993cdf7-3efd-476d-8168-d6fc4cd883c2	MMRF_1332	'--	'--	'--	no
+963a7a46-f466-46e0-8e33-98986974b436	MMRF_1895	female	Breast Cancer	Mother	yes
+963a7a46-f466-46e0-8e33-98986974b436	MMRF_1895	female	Unknown	Paternal Grandmother	yes
+963a7a46-f466-46e0-8e33-98986974b436	MMRF_1895	unknown	Breast Cancer	Sibling	yes
+2281b435-31fb-425f-82ea-c0248b0b55f5	MMRF_1251	female	Breast Cancer	Paternal Grandmother	yes
+2281b435-31fb-425f-82ea-c0248b0b55f5	MMRF_1251	female	Leukemia	Maternal Grandmother	yes
+2281b435-31fb-425f-82ea-c0248b0b55f5	MMRF_1251	male	Lung Cancer	Maternal Grandfather	yes
+032ca0da-a89e-43fe-bcb0-e0802c9c24d5	MMRF_1383	'--	'--	'--	no
+0d92dbf1-32cb-417a-ac08-f1595aa4a70a	MMRF_1595	unknown	Colorectal Cancer	Sibling	yes
+0d92dbf1-32cb-417a-ac08-f1595aa4a70a	MMRF_1595	male	Unknown	Father	yes
+ad34b217-0e49-4f18-9084-c07473461644	MMRF_1099	female	Unknown	Mother	yes
+ad34b217-0e49-4f18-9084-c07473461644	MMRF_1099	male	Lung Cancer	Father	yes
+359ffef9-902b-411f-b609-5ab6411f2406	MMRF_1274	'--	'--	'--	no
+5e575a03-c342-4719-8224-61d7276b0fcd	MMRF_1110	male	Lung Cancer	Paternal Grandfather	yes
+4ff7bf7e-0993-4e3f-b722-caa928798afb	MMRF_2590	'--	'--	'--	no
+94e666dd-1748-4f6f-bdad-a7a1bc497466	MMRF_1847	unknown	Melanoma	Sibling	yes
+dab8b8e1-694b-4faa-bffd-a227b8526c13	MMRF_2302	'--	'--	'--	no
+f40a4d88-770b-4fd7-83c4-5809ebe17512	MMRF_2317	'--	'--	'--	unknown
+02fdd4d5-2ded-4624-b999-49587396d590	MMRF_1501	unknown	Lung Cancer	Sibling	yes
+02fdd4d5-2ded-4624-b999-49587396d590	MMRF_1501	unknown	Lung Cancer	Sibling	yes
+02fdd4d5-2ded-4624-b999-49587396d590	MMRF_1501	unknown	Colorectal Cancer	Sibling	yes
+c5fb14ea-e06d-4871-9efe-b0c9cb48bad6	MMRF_2525	unknown	Unknown	Sibling	yes
+ec647a73-b91a-4abb-96b2-7f897613884f	MMRF_1445	unknown	Colorectal Cancer	Sibling	yes
+84ab30ee-2564-4623-95c5-eee659f50756	MMRF_2378	'--	'--	'--	no
+ae58bf4d-78b2-4e5b-8e58-30a64a519e72	MMRF_1304	'--	'--	'--	no
+9133bcce-48fc-48e7-bbea-90e9776a1bf6	MMRF_2180	male	Colorectal Cancer	Father	yes
+184e396b-4c4e-4438-9146-7d37aac0c5a4	MMRF_1621	'--	'--	'--	unknown
+12ade16c-661c-48cd-b959-30890afb1040	MMRF_1915	male	Leukemia	Paternal Grandfather	yes
+994fda2d-17af-451a-954a-95410558319b	MMRF_1189	'--	'--	'--	no
+da7c1425-a8c7-4f9c-94a0-85ef517e9c2d	MMRF_1601	'--	'--	'--	unknown
+86144286-8390-4e67-9bbb-7d6fde5cc6eb	MMRF_2539	female	Breast Cancer	Mother	yes
+86144286-8390-4e67-9bbb-7d6fde5cc6eb	MMRF_2539	female	Leukemia	Paternal Grandmother	yes
+86144286-8390-4e67-9bbb-7d6fde5cc6eb	MMRF_2539	unknown	Unknown	Sibling	yes
+eb102824-5bf4-4df3-b2a9-bfe3f9c1390c	MMRF_2090	'--	'--	'--	no
+566c7e1c-5180-4518-8559-27563c7ad629	MMRF_2080	'--	'--	'--	no
+e8f5b7f9-183e-44ee-b659-bddf927d706a	MMRF_2505	'--	'--	'--	unknown
+b9a0fbfd-dc87-4898-82a7-dfe771dbaed3	MMRF_2548	'--	'--	'--	no
+20839430-0a98-44ba-bc76-5d40c4bf8796	MMRF_1371	'--	'--	'--	unknown
+02008cce-b6fe-4922-ae6a-c76837df0509	MMRF_2250	'--	'--	'--	no
+7fee4128-0366-41b1-b706-a83ecaa53cc0	MMRF_2550	'--	'--	'--	unknown
+e8a89081-0ada-4b93-9bf9-399597ea9d76	MMRF_1328	female	Lung Cancer	Mother	yes
+e8a89081-0ada-4b93-9bf9-399597ea9d76	MMRF_1328	female	Breast Cancer	Mother	yes
+e8a89081-0ada-4b93-9bf9-399597ea9d76	MMRF_1328	female	Lung Cancer	Maternal Grandmother	yes
+e8a89081-0ada-4b93-9bf9-399597ea9d76	MMRF_1328	male	Leukemia	Father	yes
+d7c51323-ed06-4aeb-b8dc-cc2e97749fd1	MMRF_2475	'--	'--	'--	no
+96e4342b-4541-4dbd-9389-7be5a2c3ceb5	MMRF_1470	'--	'--	'--	no
+21a0cabb-c588-4a2c-bd54-8a3047a3a077	MMRF_2501	female	Breast Cancer	Maternal Grandmother	yes
+21a0cabb-c588-4a2c-bd54-8a3047a3a077	MMRF_2501	male	Lung Cancer	Father	yes
+93061301-28a2-4539-ba6b-cc9fc128b1a2	MMRF_1229	male	Colorectal Cancer	Father	yes
+93061301-28a2-4539-ba6b-cc9fc128b1a2	MMRF_1229	unknown	Lymphoma	Sibling	yes
+93061301-28a2-4539-ba6b-cc9fc128b1a2	MMRF_1229	male	Unknown	Paternal Grandfather	yes
+93061301-28a2-4539-ba6b-cc9fc128b1a2	MMRF_1229	female	Leukemia	Mother	yes
+93061301-28a2-4539-ba6b-cc9fc128b1a2	MMRF_1229	unknown	Unknown	Sibling	yes
+dde52f03-3a3f-4c39-92dd-02ebf1610481	MMRF_1781	male	Unknown	Father	yes
+dde52f03-3a3f-4c39-92dd-02ebf1610481	MMRF_1781	female	Unknown	Mother	yes
+8b72ff50-1613-40d4-82ee-b84583002723	MMRF_1386	'--	'--	'--	unknown
+635644ae-9179-42bc-a908-25ea0f5d0e8e	MMRF_1950	'--	'--	'--	unknown
+0afc2090-c198-4ca6-b0c4-cb93b10b01f6	MMRF_2485	unknown	Unknown	Child	yes
+0afc2090-c198-4ca6-b0c4-cb93b10b01f6	MMRF_2485	female	Breast Cancer	Mother	yes
+0afc2090-c198-4ca6-b0c4-cb93b10b01f6	MMRF_2485	unknown	Breast Cancer	Sibling	yes
+c6c21cbd-97db-4cca-8715-1271101062b7	MMRF_2082	female	Unknown	Paternal Grandmother	yes
+c6c21cbd-97db-4cca-8715-1271101062b7	MMRF_2082	unknown	Lung Cancer	Sibling	yes
+9baff632-2024-4025-b6fd-0c425fe93226	MMRF_2595	female	Unknown	Mother	yes
+9baff632-2024-4025-b6fd-0c425fe93226	MMRF_2595	male	Unknown	Father	yes
+53ae643d-4475-458f-8379-ba595f03003c	MMRF_1565	female	Multiple Myeloma	Mother	yes
+53ae643d-4475-458f-8379-ba595f03003c	MMRF_1565	female	Multiple Myeloma	Maternal Grandmother	yes
+e182d48d-158e-4c22-bad8-35f39b087dd8	MMRF_1466	unknown	Lymphoma	Sibling	yes
+e182d48d-158e-4c22-bad8-35f39b087dd8	MMRF_1466	unknown	Multiple Myeloma	Sibling	yes
+55e43550-6f25-4a83-9410-b013ea2b710f	MMRF_2306	'--	'--	'--	no
+b7a0a4ed-f438-4b75-a1fa-80bc17e06b73	MMRF_1786	'--	'--	'--	no
+e1e7cea3-ed65-426c-88c7-3d4244e0bcc6	MMRF_2522	female	Unknown	Mother	yes
+c3f1f36d-b86b-479c-8a1c-1f973f95c4fa	MMRF_1787	female	Unknown	Mother	no
+c3f1f36d-b86b-479c-8a1c-1f973f95c4fa	MMRF_1787	male	Unknown	Father	no
+f1b12b03-6135-40a1-9aef-0a600e3b5b9a	MMRF_1256	female	Colorectal Cancer	Mother	yes
+f1b12b03-6135-40a1-9aef-0a600e3b5b9a	MMRF_1256	male	Prostate Cancer	Father	yes
+79e81621-6ba7-4642-989e-0db179ef84fc	MMRF_1866	female	Unknown	Paternal Grandmother	yes
+22a9556f-238b-46c1-a6d9-c57ed8cdc2b2	MMRF_1587	'--	'--	'--	no
+cfce9dc2-683b-46fc-bbf5-0e46bc20b2ae	MMRF_1947	male	Prostate Cancer	Father	yes
+cfce9dc2-683b-46fc-bbf5-0e46bc20b2ae	MMRF_1947	unknown	Lung Cancer	Unknown	yes
+cfce9dc2-683b-46fc-bbf5-0e46bc20b2ae	MMRF_1947	unknown	Lymphoma	Unknown	yes
+cfce9dc2-683b-46fc-bbf5-0e46bc20b2ae	MMRF_1947	unknown	Lymphoma	Sibling	yes
+cfce9dc2-683b-46fc-bbf5-0e46bc20b2ae	MMRF_1947	male	Unknown	Maternal Grandfather	yes
+ed886847-8c83-47dc-81c9-435e079a30d0	MMRF_2566	'--	'--	'--	unknown
+e46ceb7d-7eda-451b-8f3d-07ea4768db91	MMRF_2062	male	Lung Cancer	Father	yes
+f484653f-cad1-4736-a25a-0eb567572de4	MMRF_2472	female	Unknown	Mother	yes
+2ca3bbd6-7810-40f2-a05f-58252e7a14f0	MMRF_1638	'--	'--	'--	unknown
+a9773efa-79a5-4137-ad21-27c9e808f1dd	MMRF_1758	unknown	Unknown	Sibling	yes
+a9773efa-79a5-4137-ad21-27c9e808f1dd	MMRF_1758	unknown	Leukemia	Sibling	yes
+6e77b994-947e-48b6-9db7-0be77be48faa	MMRF_1782	unknown	Unknown	Sibling	yes
+3ac7e06e-f847-4f1d-a858-3b2108a6173a	MMRF_2456	female	Melanoma	Mother	yes
+3ac7e06e-f847-4f1d-a858-3b2108a6173a	MMRF_2456	female	Unknown	Maternal Grandmother	yes
+dbfe5764-c8e7-425e-9c97-85ab6eedf6d2	MMRF_2444	'--	'--	'--	no
+d4231152-3b94-4905-ab86-dec60f2982a2	MMRF_1744	'--	'--	'--	no
+93fe2dcd-74b6-4fc8-a0f0-5c21ca70302f	MMRF_2026	male	Prostate Cancer	Father	yes
+93fe2dcd-74b6-4fc8-a0f0-5c21ca70302f	MMRF_2026	female	Unknown	Mother	yes
+28830b86-bd3d-4a7d-a477-e561ce92d531	MMRF_1981	female	Unknown	Mother	yes
+28830b86-bd3d-4a7d-a477-e561ce92d531	MMRF_1981	male	Unknown	Father	yes
+5e01a01d-860e-40ec-b0b3-227799f43f4b	MMRF_1596	male	Lung Cancer	Father	yes
+5e01a01d-860e-40ec-b0b3-227799f43f4b	MMRF_1596	unknown	Colorectal Cancer	Sibling	yes
+27c2926f-2da2-4fe1-87b0-8d0b786a249c	MMRF_1838	unknown	Unknown	Child	yes
+27c2926f-2da2-4fe1-87b0-8d0b786a249c	MMRF_1838	unknown	Lymphoma	Sibling	yes
+49d4af66-7850-4687-bdc2-27b4d862d180	MMRF_1355	unknown	Unknown	Sibling	yes
+49b27462-f7bb-4cb6-940c-0158cf319c52	MMRF_1512	unknown	Multiple Myeloma	Sibling	yes
+2dfbd9df-e7df-4bfd-9dff-8b0352763090	MMRF_1714	male	Multiple Myeloma	Father	yes
+f65642a5-65a1-49d6-b42f-6455c88f8c5e	MMRF_1831	female	Leukemia	Mother	yes
+8a0f04c5-3e9e-4869-a9e6-758f4f2e83ab	MMRF_1349	'--	'--	'--	no
+250eadda-919e-4267-a958-c9385068267c	MMRF_2006	'--	'--	'--	no
+7e67c911-7873-4714-bef5-f732f6bb29d6	MMRF_1224	'--	'--	'--	no
+6da0969c-8037-4e01-9ba3-3412a41d67ef	MMRF_2574	male	Breast Cancer	Father	yes
+6da0969c-8037-4e01-9ba3-3412a41d67ef	MMRF_2574	unknown	Unknown	Sibling	yes
+6da0969c-8037-4e01-9ba3-3412a41d67ef	MMRF_2574	male	Unknown	Father	yes
+ca5502c3-1fcb-411d-a1f0-f04280324ed9	MMRF_1841	'--	'--	'--	unknown
+53618a76-992d-4e73-b5fb-d5f4b43f7662	MMRF_2422	male	Lung Cancer	Father	yes
+53618a76-992d-4e73-b5fb-d5f4b43f7662	MMRF_2422	unknown	Unknown	Sibling	yes
+8e5f4b05-55a4-4507-a1cf-f44b5485315e	MMRF_1671	unknown	Lung Cancer	Sibling	yes
+8e5f4b05-55a4-4507-a1cf-f44b5485315e	MMRF_1671	unknown	Lung Cancer	Sibling	yes
+4319b1c8-927b-43d7-8c5b-63003292c841	MMRF_1107	unknown	Colorectal Cancer	Child	yes
+4319b1c8-927b-43d7-8c5b-63003292c841	MMRF_1107	unknown	Leukemia	Child	yes
+a5d97b7c-fd30-4792-9e1b-712f70db07a1	MMRF_2476	'--	'--	'--	no
+9128deb9-aaf1-44a3-a047-19d51120cc99	MMRF_2507	female	Leukemia	Mother	yes
+9128deb9-aaf1-44a3-a047-19d51120cc99	MMRF_2507	unknown	Unknown	Child	yes
+9128deb9-aaf1-44a3-a047-19d51120cc99	MMRF_2507	male	Bladder Cancer	Father	yes
+9128deb9-aaf1-44a3-a047-19d51120cc99	MMRF_2507	male	Colorectal Cancer	Father	yes
+75eb7a5c-f443-412d-8e8f-4b83606ff716	MMRF_2487	'--	'--	'--	no
+46ee3fe1-0bf0-49cd-af4a-e0e888b92965	MMRF_2413	unknown	Leukemia	Sibling	yes
+f56298dc-d136-4676-9a11-d171d9cf52d8	MMRF_1159	'--	'--	'--	no
+2faf3ba1-fd12-4cca-a362-5cb9d298e932	MMRF_2506	'--	'--	'--	no
+7cdd1fd1-ffd9-48af-8d58-5fda172919b1	MMRF_1713	'--	'--	'--	no
+54321e01-7416-4d3f-ba95-904b40c8a97d	MMRF_2429	female	Unknown	Maternal Grandmother	yes
+54321e01-7416-4d3f-ba95-904b40c8a97d	MMRF_2429	female	Lung Cancer	Mother	yes
+54321e01-7416-4d3f-ba95-904b40c8a97d	MMRF_2429	unknown	Unknown	Sibling	yes
+54321e01-7416-4d3f-ba95-904b40c8a97d	MMRF_2429	unknown	Multiple Myeloma	Sibling	yes
+54321e01-7416-4d3f-ba95-904b40c8a97d	MMRF_2429	unknown	Colorectal Cancer	Sibling	yes
+54321e01-7416-4d3f-ba95-904b40c8a97d	MMRF_2429	male	Unknown	Maternal Grandfather	yes
+54321e01-7416-4d3f-ba95-904b40c8a97d	MMRF_2429	female	Breast Cancer	Mother	yes
+8cc7a02b-2714-40d2-a700-2aca6d715032	MMRF_1352	female	Breast Cancer	Mother	yes
+8cc7a02b-2714-40d2-a700-2aca6d715032	MMRF_1352	male	Unknown	Father	yes
+4f1712d0-6b02-42bf-a99b-ff870c148d60	MMRF_2377	'--	'--	'--	no
+5008c4c3-f17f-4d78-939f-2d94e07ad6ef	MMRF_2085	'--	'--	'--	no
+275633c2-5aa6-4d7d-9a07-695fc5cffa49	MMRF_1995	male	Prostate Cancer	Father	yes
+275633c2-5aa6-4d7d-9a07-695fc5cffa49	MMRF_1995	unknown	Colorectal Cancer	Sibling	yes
+434e9cd3-eee2-4c17-85aa-b057901483bc	MMRF_1913	'--	'--	'--	unknown
+4750c9d8-fbf2-45e9-b4b1-89fc82942ad0	MMRF_2183	'--	'--	'--	no
+ff7f4510-d7d6-4279-a01d-0c9409852b4e	MMRF_1648	'--	'--	'--	unknown
+42e8c7ec-70d1-43ab-bf46-ee01eda4f8b6	MMRF_2461	unknown	Unknown	Sibling	yes
+24282f2f-6711-4a5a-bcd6-078846d6f8d4	MMRF_1823	male	Melanoma	Father	yes
+24282f2f-6711-4a5a-bcd6-078846d6f8d4	MMRF_1823	male	Unknown	Father	yes
+24282f2f-6711-4a5a-bcd6-078846d6f8d4	MMRF_1823	male	Colorectal Cancer	Father	yes
+273a1d4c-807a-4470-936d-e76e1e2ae190	MMRF_1324	'--	'--	'--	no
+07a28bc3-d102-4486-9d26-38ead109d431	MMRF_1462	male	Colorectal Cancer	Father	yes
+07a28bc3-d102-4486-9d26-38ead109d431	MMRF_1462	male	Lung Cancer	Maternal Grandfather	yes
+684e30cb-0db5-4624-aa80-a99816e6a787	MMRF_2455	male	Lung Cancer	Father	yes
+a150b23a-7000-4e62-8cfd-8bcbe22cba48	MMRF_1667	'--	'--	'--	no
+735e67ee-112b-44aa-8c5e-5094954b7468	MMRF_1450	'--	'--	'--	unknown
+b9eebd22-b66c-45dd-bc5d-4bc46423bb52	MMRF_2601	'--	'--	'--	unknown
+7fac98c8-5e59-4b35-8fc0-465621d2f921	MMRF_1650	'--	'--	'--	no
+c432cc3c-220f-4e5e-b296-f642b0f0c042	MMRF_2267	female	Breast Cancer	Mother	yes
+c432cc3c-220f-4e5e-b296-f642b0f0c042	MMRF_2267	male	Prostate Cancer	Father	yes
+c432cc3c-220f-4e5e-b296-f642b0f0c042	MMRF_2267	unknown	Unknown	Sibling	yes
+a8a046c7-0704-4afd-bbde-2a4223d30aad	MMRF_2407	female	Breast Cancer	Mother	yes
+8c398861-3ccc-43a0-bfc9-67910db50542	MMRF_2480	'--	'--	'--	no
+ecc00d90-e5fe-45da-8d32-ba7cad671bd7	MMRF_1377	female	Colorectal Cancer	Mother	yes
+c6dab2e9-c103-4beb-bbf3-30dc49982a63	MMRF_1777	'--	'--	'--	no
+ee494e20-2254-4eee-a452-149d28ca330c	MMRF_1478	male	Lung Cancer	Father	yes
+251a82ec-0b29-4652-911d-5f07ee5a7ec3	MMRF_2245	'--	'--	'--	unknown
+c5c5d3ed-a093-4550-8370-160dbef3e13b	MMRF_1912	'--	'--	'--	no
+c86f72e4-b4e6-4c77-82e5-0898013e950a	MMRF_1356	'--	'--	'--	no
+e04417a0-1644-410d-b771-d5d097500a49	MMRF_1186	female	Lung Cancer	Mother	yes
+01a01acf-ed76-4f04-ad6a-2e66f29754dc	MMRF_2559	female	Breast Cancer	Mother	yes
+866b0a16-330a-45f9-8245-d70afdf8a4d7	MMRF_1641	'--	'--	'--	no
+d8e3478c-0c99-4fda-b913-09a962a3dcbf	MMRF_1719	unknown	Prostate Cancer	Sibling	yes
+d8e3478c-0c99-4fda-b913-09a962a3dcbf	MMRF_1719	male	Prostate Cancer	Father	yes
+1d056d83-18b9-4d28-b1e8-91345a433963	MMRF_1921	'--	'--	'--	no
+e5992503-81fd-4ba2-acbb-33901a9d498a	MMRF_1335	'--	'--	'--	no
+a2be2276-0af8-427d-8c64-f8ed8fa7a71a	MMRF_1231	'--	'--	'--	no
+a051be7a-9069-408f-91aa-4722524595a1	MMRF_1277	female	Unknown	Mother	yes
+a051be7a-9069-408f-91aa-4722524595a1	MMRF_1277	male	Melanoma	Father	yes
+bf14ca10-5310-44a6-964c-99b13f0b2e11	MMRF_2232	unknown	Breast Cancer	Sibling	yes
+bf14ca10-5310-44a6-964c-99b13f0b2e11	MMRF_2232	female	Breast Cancer	Mother	yes
+4deed062-2b30-4cc6-868e-3a824decf8c9	MMRF_1763	'--	'--	'--	no
+1365c987-1c56-474e-ab2b-7f53cabf3cb0	MMRF_1690	'--	'--	'--	no
+113abaaf-3eb2-4318-a5a1-d0564d7b942f	MMRF_2209	unknown	Colorectal Cancer	Unknown	yes
+113abaaf-3eb2-4318-a5a1-d0564d7b942f	MMRF_2209	unknown	Unknown	Unknown	yes
+2de061bb-7a1a-4041-a2a3-de6e1cf3a3e4	MMRF_1935	'--	'--	'--	no
+c7ea860a-5aa3-4204-9d5b-8701e34cff9f	MMRF_1647	'--	'--	'--	unknown
+41c1b266-699e-463d-9107-d13790630da1	MMRF_1484	'--	'--	'--	unknown
+025f47c1-81bc-4b9f-95e8-661487df6451	MMRF_1293	'--	'--	'--	unknown
+91dadb64-b7bd-430c-91b1-fbf37af9746e	MMRF_1700	'--	'--	'--	no
+42004da4-4e43-4866-9739-dca2ddbbcf78	MMRF_2059	female	Unknown	Maternal Grandmother	yes
+680758e3-654f-4e26-acd3-cb06adcfb6bc	MMRF_1100	female	Colorectal Cancer	Mother	yes
+3ef52c42-d0cf-4c42-8a76-e7e3b777fccf	MMRF_2572	'--	'--	'--	unknown
+e5f64ec9-71e2-40d0-8f7a-0de9adba60df	MMRF_2244	'--	'--	'--	no
+ba8c9c1a-9c21-49ae-bfa9-eab77f2d6384	MMRF_1643	unknown	Unknown	Sibling	yes
+d97a54aa-d2a7-4f96-86c3-031305b415c4	MMRF_1250	'--	'--	'--	no
+53ee9800-3efc-4b5e-b9d4-d6c440c17494	MMRF_1078	male	Bladder Cancer	Father	yes
+53ee9800-3efc-4b5e-b9d4-d6c440c17494	MMRF_1078	male	Lung Cancer	Father	yes
+aa03e560-54cd-4929-a290-e126dfaac8dc	MMRF_1687	female	Unknown	Maternal Grandmother	yes
+5bcce914-6efa-4c0e-a0d7-7806e28b919c	MMRF_1266	'--	'--	'--	unknown
+b5c025c8-845f-4952-9eb5-71e979b3f35e	MMRF_1195	female	Colorectal Cancer	Maternal Grandmother	yes
+a2c46427-006d-46bf-b499-0320b3e9c7eb	MMRF_2335	'--	'--	'--	no
+568c22f1-425b-4f99-811e-71554cfc7218	MMRF_1345	'--	'--	'--	unknown
+80cd5ce5-3b21-4dbc-bd99-b7a021818110	MMRF_2018	'--	'--	'--	no
+dba0dea2-ebf3-4222-a01e-bf6041d7ba8b	MMRF_1580	'--	'--	'--	no
+5d2836a9-633f-4403-b8cd-5861c132cee8	MMRF_1395	male	Lung Cancer	Father	yes
+dd289ca0-d992-46af-b22b-22e4464f0a7d	MMRF_2621	female	Melanoma	Maternal Grandmother	yes
+dd289ca0-d992-46af-b22b-22e4464f0a7d	MMRF_2621	male	Unknown	Father	yes
+dd289ca0-d992-46af-b22b-22e4464f0a7d	MMRF_2621	male	Unknown	Paternal Grandfather	yes
+8bb96689-fe0a-45b5-af07-3a6c30480927	MMRF_1155	female	Unknown	Mother	yes
+43760600-29b3-44f0-8f83-6b3028dac88a	MMRF_1814	'--	'--	'--	unknown
+824df027-ca96-4f79-9136-470953a154c9	MMRF_2138	'--	'--	'--	no
+bbe20c05-d319-435b-b78b-7e47280357d6	MMRF_2457	male	Unknown	Father	yes
+bbe20c05-d319-435b-b78b-7e47280357d6	MMRF_2457	female	Lung Cancer	Mother	yes
+1633986b-fede-4031-90de-f15287d591ae	MMRF_2399	male	Unknown	Father	yes
+606ab4e0-a03e-45f8-9773-82a27decda9e	MMRF_1583	unknown	Unknown	Sibling	yes
+c0a321ef-fcc6-429c-8b2c-98077a9fb317	MMRF_2199	'--	'--	'--	unknown
+4870fbc0-ac61-4e70-96a8-4d1e0a082185	MMRF_1698	'--	'--	'--	no
+98e09af5-db0d-4243-8dbc-3fc40022fae7	MMRF_1426	'--	'--	'--	no
+cc3cd8c6-d59f-4998-be47-520e331a4a54	MMRF_2196	'--	'--	'--	no
+7563241e-9cce-47ba-99c3-97c27eafce4c	MMRF_1525	unknown	Leukemia	Sibling	yes
+edc63ede-c4e0-4aad-8a78-239cfd820083	MMRF_2014	male	Prostate Cancer	Father	yes
+edc63ede-c4e0-4aad-8a78-239cfd820083	MMRF_2014	female	Unknown	Paternal Grandmother	yes
+cc6c27ff-2e4b-4fe0-97cc-e90a9fe2151c	MMRF_2128	'--	'--	'--	no
+2c15a017-e507-47d0-9ee2-ead299d542a9	MMRF_1629	male	Prostate Cancer	Father	yes
+4eb2075e-0aaf-4e0a-98bf-3bd3c90fdc6d	MMRF_1446	'--	'--	'--	unknown
+41f3360a-b125-4031-8d28-693537109b4c	MMRF_2516	'--	'--	'--	no
+fcffb652-dfbf-446b-9cae-fe55eb40ece8	MMRF_1783	female	Unknown	Mother	yes
+fcffb652-dfbf-446b-9cae-fe55eb40ece8	MMRF_1783	male	Lung Cancer	Father	yes
+7d8b949a-9669-418e-8e7b-7846089775ce	MMRF_1089	'--	'--	'--	no
+0f98a79e-5965-47ed-8b58-c586b6d88f01	MMRF_1815	unknown	Lymphoma	Sibling	yes
+0f98a79e-5965-47ed-8b58-c586b6d88f01	MMRF_1815	unknown	Lung Cancer	Sibling	yes
+b4ef7988-c15f-4c65-92f6-23413d3bdc35	MMRF_2433	male	Unknown	Father	yes
+8b6875ae-0e75-4d66-a5c4-ab88cc8da9e6	MMRF_2427	'--	'--	'--	unknown
+9a460ce3-860b-4fcc-800e-f6b055413c23	MMRF_2568	'--	'--	'--	no
+9e3ee1c3-3376-489e-97f6-c5d13ab3a2de	MMRF_1219	female	Unknown	Mother	yes
+9e3ee1c3-3376-489e-97f6-c5d13ab3a2de	MMRF_1219	female	Breast Cancer	Mother	yes
+9e3ee1c3-3376-489e-97f6-c5d13ab3a2de	MMRF_1219	female	Unknown	Maternal Grandmother	yes
+aa308f50-2dd1-4327-a88c-cde8b35cd67b	MMRF_1178	unknown	Unknown	Sibling	yes
+aa308f50-2dd1-4327-a88c-cde8b35cd67b	MMRF_1178	male	Unknown	Father	yes
+44ba04d6-7a2b-4d8f-8d52-6975e141c2ab	MMRF_1543	unknown	Breast Cancer	Sibling	yes
+23a54468-f08a-4c2c-b299-c97bc1cbeaff	MMRF_1300	'--	'--	'--	no
+fce7e24d-9c33-4219-b024-84e1e86b88a6	MMRF_2301	female	Unknown	Mother	yes
+ddb370db-7348-49a2-bcb0-5afdefa6d644	MMRF_1232	unknown	Unknown	Sibling	yes
+ddb370db-7348-49a2-bcb0-5afdefa6d644	MMRF_1232	unknown	Unknown	Sibling	yes
+ddb370db-7348-49a2-bcb0-5afdefa6d644	MMRF_1232	male	Unknown	Father	yes
+0b01a9c3-98f9-4ab8-a401-a3b1f087dd06	MMRF_1932	'--	'--	'--	no
+fba1eb1f-7e57-46fc-a7d5-7f4cceadbc27	MMRF_2279	'--	'--	'--	no
+74736b86-8106-4c0e-a8d5-2b63090754cc	MMRF_2291	unknown	Bladder Cancer	Sibling	yes
+8e1dbe30-72d8-4008-91bd-e4eb88d11fea	MMRF_1772	'--	'--	'--	no
+5ac88dea-a26f-4af1-afb9-9bcfe937db6b	MMRF_2266	'--	'--	'--	no
+0a6cb426-5baf-415c-9583-2b5908cf6357	MMRF_2111	'--	'--	'--	no
+98eb3354-e412-4996-9274-04cda4827dc1	MMRF_2281	'--	'--	'--	no
+a1ee433f-b49b-485a-a4ef-58d4c284663d	MMRF_1793	'--	'--	'--	no
+9a05992e-c8cf-4308-bcff-4583009d64de	MMRF_1485	unknown	Kidney Cancer	Sibling	yes
+4b8af8dd-e4e6-4d2e-b49b-f62827341f05	MMRF_2284	female	Unknown	Mother	yes
+c45c71aa-0c04-4e48-82d7-8758465dc415	MMRF_1216	'--	'--	'--	no
+a901262a-f985-4054-8bdf-6557a8a80b98	MMRF_2325	'--	'--	'--	no
+15713a83-8a83-491e-9b6d-52538a3e8478	MMRF_1584	'--	'--	'--	no
+ea87a825-74ed-4454-b4c0-45ccb0a3e378	MMRF_2091	'--	'--	'--	no
+6e23a4a7-0f96-47c1-afb6-27699e7afd79	MMRF_1775	'--	'--	'--	no
+dc664f0d-1881-4961-a95f-b8458ade2d76	MMRF_2336	'--	'--	'--	unknown
+6e823219-c3ad-4685-ae67-1b4812a74a4e	MMRF_2459	female	Unknown	Mother	yes
+0b255f54-4366-40cf-a877-2cbf5aafd0f4	MMRF_1740	'--	'--	'--	no
+136f3992-fd0d-42d9-9061-6fdad29d13ff	MMRF_2362	'--	'--	'--	unknown
+bfe2f81d-7c4a-4d54-b87a-b47401d52c4f	MMRF_1726	'--	'--	'--	unknown
+ce342792-0714-43d5-a342-8e7b3fac2f31	MMRF_2613	'--	'--	'--	no
+a68c53af-4359-4f9c-b9cd-de61a62bb922	MMRF_1695	'--	'--	'--	no
+34621984-f804-4060-935e-887814ebda45	MMRF_2039	'--	'--	'--	unknown
+742b51bb-bc36-455a-9b7c-d77be310f612	MMRF_1511	'--	'--	'--	no
+c99d393e-4a2f-4e8e-8d5d-a7f2ddee68ed	MMRF_1780	male	Unknown	Father	yes
+a08ab8f6-2bea-4109-92ce-96afbd4be98e	MMRF_2560	'--	'--	'--	no
+55f82b91-02d2-488f-a054-d3a255820ed7	MMRF_2344	'--	'--	'--	unknown
+8d167bdf-0707-462c-9b9f-f54a19b17da6	MMRF_1486	'--	'--	'--	no
+7ca26b63-ec44-4f12-8528-4fa8ec48de3a	MMRF_1731	unknown	Breast Cancer	Sibling	yes
+7ca26b63-ec44-4f12-8528-4fa8ec48de3a	MMRF_1731	unknown	Unknown	Sibling	yes
+65990cba-9536-4c9b-bfbc-addde266b7a0	MMRF_1573	unknown	Unknown	Sibling	yes
+65990cba-9536-4c9b-bfbc-addde266b7a0	MMRF_1573	unknown	Unknown	Sibling	yes
+65990cba-9536-4c9b-bfbc-addde266b7a0	MMRF_1573	unknown	Lung Cancer	Sibling	yes
+65990cba-9536-4c9b-bfbc-addde266b7a0	MMRF_1573	unknown	Unknown	Sibling	yes
+c5221054-2494-4550-861f-090790b498e6	MMRF_1171	'--	'--	'--	unknown
+f8fcf871-c397-4817-aaec-e0e2bf08ea9a	MMRF_1846	male	'--	Father	no
+8915f90c-b49a-4695-9fec-2f58150235c6	MMRF_1605	unknown	Unknown	Sibling	yes
+3c6ff74a-c8d3-4002-8b52-0ce1fb3937e0	MMRF_2622	unknown	Unknown	Unknown	yes
+3c6ff74a-c8d3-4002-8b52-0ce1fb3937e0	MMRF_2622	unknown	Leukemia	Unknown	yes
+3c6ff74a-c8d3-4002-8b52-0ce1fb3937e0	MMRF_2622	male	Unknown	Paternal Grandfather	yes
+7a4989cf-0326-4ef2-a394-6bc36f099471	MMRF_2486	'--	'--	'--	no
+83d2b57a-6f26-4a6a-adf2-25a4647e37ed	MMRF_1795	unknown	Leukemia	Sibling	yes
+83d2b57a-6f26-4a6a-adf2-25a4647e37ed	MMRF_1795	unknown	Breast Cancer	Sibling	yes
+0866d285-58e7-4f73-a8b0-9cdba14a0e40	MMRF_1080	male	Prostate Cancer	Father	yes
+0866d285-58e7-4f73-a8b0-9cdba14a0e40	MMRF_1080	male	Multiple Myeloma	Paternal Grandfather	yes
+2528b762-2df3-46fd-ae3c-2bf671c590fc	MMRF_1540	unknown	Kidney Cancer	Unknown	yes
+2528b762-2df3-46fd-ae3c-2bf671c590fc	MMRF_1540	unknown	Lung Cancer	Unknown	yes
+2528b762-2df3-46fd-ae3c-2bf671c590fc	MMRF_1540	unknown	Lung Cancer	Unknown	yes
+ed0e8c7b-8254-4166-8983-9af343dedb94	MMRF_2114	female	Unknown	Mother	yes
+38283de8-d70b-49ef-89cd-83d84794de65	MMRF_1593	'--	'--	'--	no
+b817d3c9-6b5b-4ef9-b46f-02bf9d334f80	MMRF_1633	'--	'--	'--	no
+9b30e273-3fb2-4679-ba9b-06b738f67621	MMRF_1794	'--	'--	'--	no
+a207ae73-14c1-423a-8ecd-e5ea8b14ba94	MMRF_1622	'--	'--	'--	unknown
+6c61647c-968c-4f9a-9136-e984e8484525	MMRF_1029	male	Kidney Cancer	Father	yes
+6c61647c-968c-4f9a-9136-e984e8484525	MMRF_1029	female	Breast Cancer	Mother	yes
+6b1817f8-d665-4278-8021-b355eb035569	MMRF_1045	'--	'--	'--	no
+3ec5b04e-4677-4573-b907-e386b84ab39d	MMRF_1652	male	Lung Cancer	Father	yes
+3ec5b04e-4677-4573-b907-e386b84ab39d	MMRF_1652	female	Unknown	Mother	yes
+3ec5b04e-4677-4573-b907-e386b84ab39d	MMRF_1652	unknown	Lung Cancer	Sibling	yes
+4535b9a6-15a2-4ef9-bf54-412e173a8433	MMRF_2497	'--	'--	'--	no
+c78ec315-bf9a-4c27-9a0a-adcd8b493bf8	MMRF_1603	'--	'--	'--	no
+07d7c87a-409f-437d-bef8-36511773d540	MMRF_1024	'--	'--	'--	unknown
+2cd3dbf9-9315-4a6d-b2d8-5f3b2e118308	MMRF_1655	'--	'--	'--	no
+fca8ab62-4857-4bb0-9b24-a2d14b888067	MMRF_1408	'--	'--	'--	no
+6e327cc5-9247-4118-9d7b-9bb958f6bd64	MMRF_1423	male	Unknown	Father	yes
+6e327cc5-9247-4118-9d7b-9bb958f6bd64	MMRF_1423	unknown	Unknown	Sibling	yes
+f0b4f310-1d01-486e-bce5-ac3aebff0962	MMRF_1705	'--	'--	'--	unknown
+9153e4c2-37e9-4cc3-83a8-14d2cedaa819	MMRF_1413	female	Unknown	Mother	yes
+9153e4c2-37e9-4cc3-83a8-14d2cedaa819	MMRF_1413	unknown	Breast Cancer	Sibling	yes
+5c8deb7b-1745-4d3f-a324-6e4fe89d2fc5	MMRF_2305	'--	'--	'--	no
+7de1d5bd-04a8-4170-be09-5459affd2f57	MMRF_2437	'--	'--	'--	no
+7dc31268-639a-487c-a031-76c2335c77c5	MMRF_1393	unknown	Lymphoma	Unknown	yes
+7dc31268-639a-487c-a031-76c2335c77c5	MMRF_1393	unknown	Bladder Cancer	Unknown	yes
+7dc31268-639a-487c-a031-76c2335c77c5	MMRF_1393	unknown	Breast Cancer	Unknown	yes
+0e41ffbc-d45a-4327-91bd-cdf42bdc405d	MMRF_2213	'--	'--	'--	unknown
+421aa881-f90f-4ec7-87ee-6707bed4ffe8	MMRF_1597	female	Colorectal Cancer	Mother	yes
+421aa881-f90f-4ec7-87ee-6707bed4ffe8	MMRF_1597	male	Unknown	Father	yes
+5ce83d2f-4e92-4c21-95a2-d0ca5f58f466	MMRF_2258	'--	'--	'--	no
+4128a4ec-14dc-471b-8836-0edc93ffaf7f	MMRF_1030	female	Breast Cancer	Mother	yes
+4128a4ec-14dc-471b-8836-0edc93ffaf7f	MMRF_1030	unknown	Prostate Cancer	Sibling	yes
+d1978fcd-fabc-4ce5-83bb-57a277777451	MMRF_2257	'--	'--	'--	unknown
+b06a2821-fb42-4f79-92ea-75f4e3118c61	MMRF_2273	'--	'--	'--	unknown
+26cbfdd2-a32d-43ae-b97b-26abc9896c59	MMRF_1736	unknown	Lung Cancer	Sibling	yes
+26cbfdd2-a32d-43ae-b97b-26abc9896c59	MMRF_1736	unknown	Multiple Myeloma	Sibling	yes
+26cbfdd2-a32d-43ae-b97b-26abc9896c59	MMRF_1736	unknown	Unknown	Sibling	yes
+26cbfdd2-a32d-43ae-b97b-26abc9896c59	MMRF_1736	unknown	Prostate Cancer	Sibling	yes
+ce2364f6-fac4-43f2-9947-8c9d11c294a1	MMRF_1644	'--	'--	'--	no
+590217ce-535c-483e-b866-4e383d075b41	MMRF_1310	female	Unknown	Mother	yes
+2555ccf0-8d72-448b-a307-9718a457ddbc	MMRF_1434	male	Lung Cancer	Father	yes
+29d5affc-89af-4c04-904e-b160dea59e10	MMRF_1891	male	Lung Cancer	Father	yes
+83bcfb26-63a3-4837-b4dd-3ba8a3aab8a4	MMRF_2577	'--	'--	'--	unknown
+0c052aa2-6f65-4c07-b319-41e7d520ac57	MMRF_1825	female	Unknown	Paternal Grandmother	yes
+0c052aa2-6f65-4c07-b319-41e7d520ac57	MMRF_1825	male	Lung Cancer	Paternal Grandfather	yes
+eb9eaeb1-53b6-4013-8406-59c9e2665c89	MMRF_2061	female	Breast Cancer	Mother	yes
+eb9eaeb1-53b6-4013-8406-59c9e2665c89	MMRF_2061	unknown	Unknown	Sibling	yes
+10a453ce-b0c4-4045-86c1-24d8fb08ac71	MMRF_2015	'--	'--	'--	unknown
+0470e569-45b7-4ad8-bee1-1fc70059a74d	MMRF_2231	'--	'--	'--	no
+3b119f1a-9f12-4629-9ee8-0a54cb69d28f	MMRF_1796	'--	'--	'--	no
+afafdba0-3a41-4879-9fe2-f2c10ae05c7b	MMRF_2191	'--	'--	'--	no
+6372dd4a-2f71-4780-8144-83a574964db1	MMRF_2412	'--	'--	'--	no
+0b61653c-1e82-4624-8c33-df8661782b40	MMRF_1318	'--	'--	'--	unknown
+984da3eb-5dde-4a77-a143-3edb86a288c7	MMRF_1805	'--	'--	'--	unknown
+3b14eb0d-8007-4a10-b64a-ee7f9799b9a0	MMRF_1424	unknown	Unknown	Unknown	yes
+1aa3e9f5-ec54-4748-a046-9551fb00c8f1	MMRF_1576	'--	'--	'--	no
+388c43ed-a979-40b1-82e5-ddcdaab38a6b	MMRF_2198	'--	'--	'--	no
+af66ead1-8263-4fe9-b34d-6e4350a185fb	MMRF_1678	'--	'--	'--	unknown
+22cbce6e-fcf1-4e47-8566-30280fb87caa	MMRF_2293	male	Multiple Myeloma	Father	yes
+44881089-7fa9-49e0-b71a-fd56bea9b5bd	MMRF_1131	'--	'--	'--	no
+8ed77787-c930-42b7-90e5-4267aa6f9854	MMRF_1020	'--	'--	'--	no
+90cb3d92-24d4-4967-bba8-b19fe2de036a	MMRF_1986	male	Multiple Myeloma	Father	yes
+463a106f-de45-4520-8122-aaed112641bb	MMRF_1439	'--	'--	'--	unknown
+09f98283-4505-4077-9e1c-b1d26f773a2c	MMRF_1531	male	Unknown	Father	yes
+9c7c0020-7cd3-4e0f-86cd-b474f82fb732	MMRF_2541	unknown	Breast Cancer	Unknown	yes
+9c7c0020-7cd3-4e0f-86cd-b474f82fb732	MMRF_2541	male	Unknown	Father	yes
+9c7c0020-7cd3-4e0f-86cd-b474f82fb732	MMRF_2541	female	Bladder Cancer	Mother	yes
+9c7c0020-7cd3-4e0f-86cd-b474f82fb732	MMRF_2541	unknown	Kidney Cancer	Unknown	yes
+6a6c45d8-4196-42fd-a9c8-2f9f3879164e	MMRF_1460	'--	'--	'--	unknown
+9f18c922-5fcf-45f9-82fc-111d2aa6d6d7	MMRF_1928	male	Melanoma	Father	yes
+d31acf65-2837-4b31-8077-4a74aca5f549	MMRF_2195	'--	'--	'--	unknown
+abe15e81-998d-4b64-9776-b884fa763d13	MMRF_1079	female	Melanoma	Mother	yes
+abe15e81-998d-4b64-9776-b884fa763d13	MMRF_1079	unknown	Unknown	Sibling	yes
+71d62f8d-51db-4b5b-b3d3-a364b70f70a7	MMRF_1077	'--	'--	'--	no
+f938c66f-ed96-4e75-a8dd-0c50d983f82c	MMRF_2473	'--	'--	'--	unknown
+3315a10d-8aef-4cfb-be9a-902d95c88292	MMRF_2098	'--	'--	'--	no
+0a86f707-c49e-40cb-95d9-6b8f97ac7bc8	MMRF_2402	'--	'--	'--	no
+2c3ee8e8-0819-47c1-b26f-3d30be31e17f	MMRF_2368	'--	'--	'--	unknown
+12e4b465-9473-432f-a8e3-d5363cbb3960	MMRF_1032	'--	'--	'--	no
+2a4e21b2-79af-43de-9a17-58a12949757c	MMRF_1628	'--	'--	'--	no
+996ba5d0-c148-4f2b-9551-cbb746ad7322	MMRF_1642	'--	'--	'--	unknown
+e3dc30b8-ccfe-486d-964c-0237ca86591e	MMRF_1940	'--	'--	'--	no
+3c13821d-8024-4b68-b927-014e00de6ddf	MMRF_1270	unknown	Unknown	Sibling	yes
+16c8cf8e-ea82-4185-9349-5218c03f0c75	MMRF_1451	male	Colorectal Cancer	Father	yes
+16c8cf8e-ea82-4185-9349-5218c03f0c75	MMRF_1451	male	Unknown	Father	yes
+313c09b1-85b4-41eb-923d-a3756e6e6b2f	MMRF_2592	unknown	Kidney Cancer	Sibling	yes
+6b8db43d-4236-4041-9eaf-78034ceb66f3	MMRF_2458	'--	'--	'--	no
+e8c3ab17-c1ce-40ad-ae9b-7b6ef11e4501	MMRF_1941	unknown	Unknown	Sibling	yes
+e8c3ab17-c1ce-40ad-ae9b-7b6ef11e4501	MMRF_1941	male	Unknown	Father	yes
+79b9b609-45a2-4781-a652-53a13843082c	MMRF_2013	'--	'--	'--	unknown
+91bd88fa-1279-4afe-8be1-5f2ad7869c5d	MMRF_2352	female	Unknown	Mother	yes
+60fe51de-8ece-4f0d-a665-cc8140a6ab89	MMRF_1977	male	Lung Cancer	Father	yes
+e5fed665-34ef-4df0-b5d8-4a45a001b7fb	MMRF_1614	'--	'--	'--	no
+4ee39eb6-8443-41e5-a916-5fe87f139370	MMRF_1425	unknown	Breast Cancer	Sibling	yes
+465022e3-bb64-4fd2-a28a-6191b73d01b6	MMRF_1911	'--	'--	'--	no
+2f5e648f-7cc3-44db-8c84-a7b8ffcccf97	MMRF_2167	female	Unknown	Paternal Grandmother	yes
+2f5e648f-7cc3-44db-8c84-a7b8ffcccf97	MMRF_2167	unknown	Unknown	Sibling	yes
+2f5e648f-7cc3-44db-8c84-a7b8ffcccf97	MMRF_2167	male	Unknown	Father	yes
+2f5e648f-7cc3-44db-8c84-a7b8ffcccf97	MMRF_2167	female	Unknown	Mother	yes
+0084e8b6-57fc-48b6-aa77-fec6e45161d2	MMRF_2240	unknown	Bladder Cancer	Unknown	unknown
+3a04411e-31eb-4fea-bd93-73deb4e6958f	MMRF_1108	'--	'--	'--	no
+a6de5e50-19f4-4a18-969a-f2587271b4b0	MMRF_1037	unknown	Unknown	Sibling	yes
+a6de5e50-19f4-4a18-969a-f2587271b4b0	MMRF_1037	unknown	Breast Cancer	Sibling	yes
+a6de5e50-19f4-4a18-969a-f2587271b4b0	MMRF_1037	unknown	Prostate Cancer	Child	yes
+a6de5e50-19f4-4a18-969a-f2587271b4b0	MMRF_1037	male	Unknown	Father	yes
+7da8f33a-e801-40b6-b2e5-431f2a59232f	MMRF_2532	'--	'--	'--	unknown
+eb8a41f8-8e60-43fc-9013-284c9f012c9e	MMRF_1640	'--	'--	'--	no
+04493a15-abb5-4663-ad1b-de7e22601e3a	MMRF_2464	'--	'--	'--	no
+af227b27-8550-4ee2-b36f-243842400ae5	MMRF_1936	'--	'--	'--	no
+6dafa05a-8097-44a9-96eb-2b8131fb5731	MMRF_2446	'--	'--	'--	no
+e9b31ae7-734d-4915-a186-db19aaa7a55e	MMRF_1613	'--	'--	'--	no
+1c58074b-2bfd-4177-8fb4-22561402bbcc	MMRF_1602	female	Unknown	Maternal Grandmother	yes
+1c58074b-2bfd-4177-8fb4-22561402bbcc	MMRF_1602	male	Unknown	Maternal Grandfather	yes
+a3b3a7dd-8559-4b01-8112-d15ec35c5550	MMRF_1033	male	Unknown	Father	yes
+a3b3a7dd-8559-4b01-8112-d15ec35c5550	MMRF_1033	unknown	Breast Cancer	Sibling	yes
+be90cdd9-b06b-4121-b02c-8ce0bfcc9f9a	MMRF_1646	female	Unknown	Mother	yes
+6ee3a6fb-773e-4678-9cab-28473bb17740	MMRF_2363	male	Multiple Myeloma	Father	yes
+7454fcff-7db7-4a0a-be8a-d12fa315c0e9	MMRF_2440	female	Breast Cancer	Mother	yes
+c27c68d8-dc03-4be8-8254-e43cfc68e2f1	MMRF_2410	'--	'--	'--	no
+a6533b38-fe7d-4c1c-951c-c868e9377af6	MMRF_1244	'--	'--	'--	unknown
+d4444070-7705-4775-a720-12734dd88643	MMRF_1988	'--	'--	'--	no
+bbf6251c-8009-4daf-8499-5b7fe7de66f5	MMRF_1983	'--	'--	'--	no
+090e97b2-6ce5-47fe-a0fa-dad892d9f9cb	MMRF_2468	'--	'--	'--	no
+bb3d98d2-166b-40d6-9974-a1b71b047c68	MMRF_1927	'--	'--	'--	no
+6aa07ef6-e9cc-4850-87f3-ec14a387e1f6	MMRF_1538	'--	'--	'--	no
+d64025cb-a2e5-4e06-a7c0-36876c355e92	MMRF_2511	'--	'--	'--	unknown
+3eea489a-673f-40bb-ad41-9b9fba7ed416	MMRF_1639	unknown	Lung Cancer	Sibling	yes
+b4f423b6-71b9-459a-a5ed-93208ec27397	MMRF_1289	female	Unknown	Mother	yes
+b4f423b6-71b9-459a-a5ed-93208ec27397	MMRF_1289	male	Bladder Cancer	Father	yes
+6ae7886e-1d06-4e9b-a6f5-19c31c8ce024	MMRF_1572	unknown	Breast Cancer	Sibling	yes
+c81e90b8-083c-4948-8c4c-9abb1e262dfe	MMRF_1285	unknown	Lung Cancer	Sibling	yes
+d59c3a6f-f039-4d9e-87eb-804e4a786946	MMRF_1502	female	Breast Cancer	Mother	yes
+6cdab22e-1caa-46b2-ad50-ee4bb57a9cf8	MMRF_1886	'--	'--	'--	no
+7414ddf1-8e7f-4393-8a76-5bc122bdc4a4	MMRF_1098	'--	'--	'--	no
+74dad290-72fd-4b1f-9ae3-0407897d937b	MMRF_1458	'--	'--	'--	no
+abc979e5-dd84-4bfa-9727-b2f396f3a3c5	MMRF_1447	female	Unknown	Mother	yes
+8529a6ca-c536-46f3-a572-81eaf7633b75	MMRF_1859	'--	'--	'--	no
+03e0bf5a-b0ae-41dc-94a9-9abab769f1d4	MMRF_2388	female	Unknown	Paternal Grandmother	yes
+03e0bf5a-b0ae-41dc-94a9-9abab769f1d4	MMRF_2388	female	Unknown	Mother	yes
+3280a484-e31c-4566-a111-b9aee0c80e89	MMRF_2477	unknown	Leukemia	Child	yes
+129a4a90-3414-4879-985a-c49bde58d837	MMRF_2211	female	Unknown	Maternal Grandmother	yes
+f3664bcb-3446-4beb-a9d8-5d27326f51a9	MMRF_2101	male	Leukemia	Paternal Grandfather	yes
+f3664bcb-3446-4beb-a9d8-5d27326f51a9	MMRF_2101	unknown	Breast Cancer	Unknown	yes
+f3664bcb-3446-4beb-a9d8-5d27326f51a9	MMRF_2101	male	Colorectal Cancer	Father	yes
+461bd31c-c782-44f7-bd3e-2120d613883c	MMRF_1211	unknown	Kidney Cancer	Sibling	yes
+833d9bc8-be66-43ff-aafa-4b9d90afff5f	MMRF_2113	female	Unknown	Mother	yes
+22773cc4-bc3b-48f6-8529-2f14b7dff462	MMRF_1982	'--	'--	'--	no
+3c77321e-e681-4211-9e0c-816fecfe0544	MMRF_1665	unknown	Colorectal Cancer	Sibling	yes
+3c77321e-e681-4211-9e0c-816fecfe0544	MMRF_1665	unknown	Lymphoma	Unknown	yes
+3c77321e-e681-4211-9e0c-816fecfe0544	MMRF_1665	male	Leukemia	Father	yes
+3c77321e-e681-4211-9e0c-816fecfe0544	MMRF_1665	female	Breast Cancer	Mother	yes
+5610ff41-96a3-4e96-b301-d4d5761d10a7	MMRF_2411	unknown	Unknown	Sibling	yes
+5610ff41-96a3-4e96-b301-d4d5761d10a7	MMRF_2411	male	Unknown	Paternal Grandfather	yes
+5610ff41-96a3-4e96-b301-d4d5761d10a7	MMRF_2411	female	Breast Cancer	Mother	yes
+c82d659c-a845-4b01-8bbd-776783c3ccdc	MMRF_1651	'--	'--	'--	no
+8eae1d53-0c69-4946-b987-d38cb932ee01	MMRF_2093	'--	'--	'--	unknown
+a56024d4-beda-4739-9595-278a3e60a191	MMRF_1857	'--	'--	'--	unknown
+bdf1bd48-33cb-4414-881c-2ad90a67823c	MMRF_1710	unknown	Breast Cancer	Unknown	yes
+6a7edfbd-b367-4c26-96f8-cb62c7c0fe5c	MMRF_2116	female	Breast Cancer	Maternal Grandmother	yes
+eaa26025-3680-4fb8-833d-22ed1a6bb5a0	MMRF_2185	'--	'--	'--	unknown
+41b8e05c-b5fe-45b8-bc9e-214ea4b35e0a	MMRF_1855	'--	'--	'--	no
+e3bef2b4-bb08-480c-9a42-7ca1fe436469	MMRF_2514	female	Lung Cancer	Mother	yes
+f24cfd7d-1605-4df1-b705-db6694fe745f	MMRF_2160	'--	'--	'--	no
+a517a671-30ac-4c76-b9fb-47b3f82bcbd3	MMRF_2557	'--	'--	'--	no
+82ae44ab-73c5-4774-af31-d25996841252	MMRF_2097	male	Unknown	Father	yes
+232045ee-86be-4289-bd3d-f1151a5e5863	MMRF_2058	'--	'--	'--	unknown
+9a2b0af5-bcf5-4398-bcd0-d4f4c7cc9852	MMRF_1296	unknown	Bladder Cancer	Sibling	yes
+9a2b0af5-bcf5-4398-bcd0-d4f4c7cc9852	MMRF_1296	unknown	Breast Cancer	Sibling	yes
+9a2b0af5-bcf5-4398-bcd0-d4f4c7cc9852	MMRF_1296	unknown	Unknown	Sibling	yes
+f7e1c3b5-5120-4e07-a60d-498c2bd84573	MMRF_1834	female	Unknown	Mother	yes
+f7e1c3b5-5120-4e07-a60d-498c2bd84573	MMRF_1834	unknown	Prostate Cancer	Sibling	yes
+e84e1504-6f13-4ac8-a4ce-6af61b2c8786	MMRF_2297	'--	'--	'--	no
+e09a0b20-e83c-46f1-89bc-305b570ad285	MMRF_2041	'--	'--	'--	no
+8d1ca468-24e1-4469-ba23-a01cb2142dd4	MMRF_2333	unknown	Unknown	Sibling	yes
+8d1ca468-24e1-4469-ba23-a01cb2142dd4	MMRF_2333	unknown	Breast Cancer	Sibling	yes
+8d1ca468-24e1-4469-ba23-a01cb2142dd4	MMRF_2333	unknown	Breast Cancer	Child	yes
+8d1ca468-24e1-4469-ba23-a01cb2142dd4	MMRF_2333	unknown	Breast Cancer	Sibling	yes
+29818df5-ad86-4e33-8418-7d7be23812e1	MMRF_1862	'--	'--	'--	unknown
+eb6fa8f1-a587-4883-9e84-8d699360f563	MMRF_1645	unknown	Unknown	Unknown	yes
+eb6fa8f1-a587-4883-9e84-8d699360f563	MMRF_1645	unknown	Breast Cancer	Unknown	yes
+eb6fa8f1-a587-4883-9e84-8d699360f563	MMRF_1645	unknown	Breast Cancer	Unknown	yes
+eb6fa8f1-a587-4883-9e84-8d699360f563	MMRF_1645	unknown	Prostate Cancer	Unknown	yes
+4a5a1396-9e77-4c47-a15b-61b863ef950d	MMRF_1716	'--	'--	'--	unknown
+7a369587-096f-463a-a196-3ce918fd2a57	MMRF_1092	female	Colorectal Cancer	Mother	yes
+edb78746-34ff-4caf-b0b5-ef9f6d48546d	MMRF_2286	female	Unknown	Mother	yes
+7da8e250-ea31-4fb2-abc7-d1b1d27113cf	MMRF_1608	female	Lung Cancer	Mother	yes
+7da8e250-ea31-4fb2-abc7-d1b1d27113cf	MMRF_1608	male	Prostate Cancer	Father	yes
+89971fcb-f73d-410b-bf41-d3de13cc1306	MMRF_2102	'--	'--	'--	no
+2a92bb6a-c860-4770-a20b-0738b94997d2	MMRF_2220	female	Unknown	Mother	yes
+05b5c882-f3df-420b-846c-64e215f080bc	MMRF_1952	'--	'--	'--	no
+0e6384ff-f974-4748-8248-87b3763268d2	MMRF_2035	unknown	Lung Cancer	Sibling	yes
+0e6384ff-f974-4748-8248-87b3763268d2	MMRF_2035	male	Lung Cancer	Father	yes
+02e02ba3-39e8-4c62-ae9f-25fe5c9d44c1	MMRF_1184	unknown	Breast Cancer	Sibling	yes
+02e02ba3-39e8-4c62-ae9f-25fe5c9d44c1	MMRF_1184	unknown	Breast Cancer	Sibling	yes
+b6defce8-cf09-497d-b3c8-2a7ac831bcae	MMRF_2001	'--	'--	'--	no
+3e5df490-87dc-4968-b55d-aed8a396f3bd	MMRF_2068	'--	'--	'--	no
+7aa5dcf1-d948-4e0f-9740-c2d2836840d4	MMRF_2207	'--	'--	'--	no
+7bec9473-a475-446e-a275-ad55590d3644	MMRF_1733	'--	'--	'--	no
+5206e3f4-95f1-45c7-81bb-e93fbbeac5e3	MMRF_2137	'--	'--	'--	no
+193de550-e410-4dfb-ae82-0f67f8644d97	MMRF_2054	female	Colorectal Cancer	Mother	yes
+193de550-e410-4dfb-ae82-0f67f8644d97	MMRF_2054	unknown	Prostate Cancer	Sibling	yes
+193de550-e410-4dfb-ae82-0f67f8644d97	MMRF_2054	female	Breast Cancer	Mother	yes
+193de550-e410-4dfb-ae82-0f67f8644d97	MMRF_2054	female	Unknown	Mother	yes
+78eee2c8-6690-4bed-b82a-485f50da83b0	MMRF_1627	'--	'--	'--	unknown
+36bdcbfc-c5ad-4105-920e-87b1afcc8c68	MMRF_2587	'--	'--	'--	no
+61d762e7-60a8-486c-b8c2-ee4ba634088f	MMRF_2549	'--	'--	'--	no
+5a19a420-4182-4767-b8d6-c520218ad41a	MMRF_1201	'--	'--	'--	no
+b547ac6a-1df0-482a-af70-986b96b70af3	MMRF_2118	'--	'--	'--	no
+27481a52-2d4e-49bd-8237-e04432ef6864	MMRF_1169	'--	'--	'--	no
+2b42b005-032c-477c-9503-8c0d36b79495	MMRF_1535	'--	'--	'--	no
+0467f89f-81ef-4888-bcd7-d3d00dc64591	MMRF_1761	'--	'--	'--	no
+1d503561-6913-4a0e-a1f1-615c6dc315a1	MMRF_1985	female	Breast Cancer	Mother	yes
+1d503561-6913-4a0e-a1f1-615c6dc315a1	MMRF_1985	female	Prostate Cancer	Mother	yes
+1d503561-6913-4a0e-a1f1-615c6dc315a1	MMRF_1985	female	Colorectal Cancer	Mother	yes
+701c3195-7d38-472e-a90d-4af5fc197d96	MMRF_2228	'--	'--	'--	unknown
+d226bd95-2f64-47c1-a230-1a2243e683a6	MMRF_1461	'--	'--	'--	no
+b31085ed-f1be-46bd-859f-9812ffce570d	MMRF_1865	'--	'--	'--	no
+7ea322bb-7ce9-4ba4-97b4-d23b140a7afb	MMRF_1148	female	Lymphoma	Mother	yes
+703d6cbd-191b-48d3-8a6d-f7b860a9a634	MMRF_2204	'--	'--	'--	unknown
+85e1a95c-030d-4e6a-ad2c-e468de783b41	MMRF_1388	'--	'--	'--	unknown
+e3202caf-9076-48de-8fa3-437e545a6bda	MMRF_1893	male	Unknown	Father	yes
+18724e8a-1746-4420-8eba-eb716222722c	MMRF_2002	unknown	Breast Cancer	Sibling	yes
+1cdf1435-6fea-4fee-9d8a-35a7afdf51ac	MMRF_2581	'--	'--	'--	unknown
+4e4989c0-f40e-4d8e-80c0-60d60e54e034	MMRF_1803	female	Unknown	Mother	yes
+ea3cf008-6883-41ff-928a-aedb01128468	MMRF_1086	'--	'--	'--	no
+c27ab9c4-03ad-46de-abfb-2ffcb5a92790	MMRF_2570	unknown	Leukemia	Sibling	yes
+c27ab9c4-03ad-46de-abfb-2ffcb5a92790	MMRF_2570	male	Lung Cancer	Maternal Grandfather	yes
+607b4658-b81e-4190-a9a5-8bc3536e20e0	MMRF_2580	'--	'--	'--	unknown
+cb7bced1-ef63-41fe-be61-e2922571c621	MMRF_2190	female	Unknown	Mother	yes
+1e298f2a-6617-4525-abde-08211e47dbe7	MMRF_2215	male	Kidney Cancer	Maternal Grandfather	yes
+f7542c01-7526-482f-b427-a1beabea6af2	MMRF_2122	'--	'--	'--	no
+b381b197-292a-47ca-909c-be4b41d65a39	MMRF_1295	'--	'--	'--	no
+4ebeb9ca-7d05-4a4c-9844-c063a96b4442	MMRF_1882	'--	'--	'--	no
+0bd0961e-3381-4fbd-9cd6-f80640317a14	MMRF_2271	unknown	Lung Cancer	Sibling	yes
+0bd0961e-3381-4fbd-9cd6-f80640317a14	MMRF_2271	female	Lung Cancer	Mother	yes
+0bd0961e-3381-4fbd-9cd6-f80640317a14	MMRF_2271	unknown	Melanoma	Child	yes
+85ac98f4-1e36-4340-95ab-24132db58d43	MMRF_1193	unknown	Multiple Myeloma	Sibling	yes
+85ac98f4-1e36-4340-95ab-24132db58d43	MMRF_1193	male	Unknown	Paternal Grandfather	yes
+85ac98f4-1e36-4340-95ab-24132db58d43	MMRF_1193	female	Kidney Cancer	Paternal Grandmother	yes
+85ac98f4-1e36-4340-95ab-24132db58d43	MMRF_1193	female	Colorectal Cancer	Maternal Grandmother	yes
+83a79d04-1c98-4fbd-b4c2-6ea747508e8f	MMRF_2024	'--	'--	'--	unknown
+bb1cf2aa-db7a-4b2b-a646-daeaf89c302d	MMRF_1143	'--	'--	'--	no
+a73e53e9-65df-44c1-ae6a-2a6f659878e5	MMRF_1550	unknown	Lymphoma	Child	yes
+a73e53e9-65df-44c1-ae6a-2a6f659878e5	MMRF_1550	male	Lung Cancer	Father	yes
+a73e53e9-65df-44c1-ae6a-2a6f659878e5	MMRF_1550	male	Colorectal Cancer	Father	yes
+b2368a3a-0df8-4147-8a35-cad34f7df133	MMRF_2538	'--	'--	'--	unknown
+32ff98a4-d8b1-4a33-bd7f-e0f07511f454	MMRF_1455	'--	'--	'--	unknown
+e8cf0ba0-d90d-45df-ba6c-b90697c7b771	MMRF_1832	unknown	Prostate Cancer	Sibling	yes
+a34db4a9-6e9d-4f42-9dd8-de810570c4a3	MMRF_1269	'--	'--	'--	no
+2e1e1105-9a63-46c0-b50c-9c215383281f	MMRF_2409	'--	'--	'--	unknown
+69b4cb06-61d8-4976-91d3-5816ef6422bf	MMRF_1750	'--	'--	'--	no
+c9d10f0c-9e61-41c5-8a86-340f8411bec6	MMRF_1974	male	Unknown	Father	yes
+c9d10f0c-9e61-41c5-8a86-340f8411bec6	MMRF_1974	female	Unknown	Mother	yes
+fb200b79-fa20-48d4-82ea-23395005173b	MMRF_1953	unknown	Breast Cancer	Sibling	yes
+fb200b79-fa20-48d4-82ea-23395005173b	MMRF_1953	female	Lung Cancer	Mother	yes
+5a29aaa2-1320-4e8b-b51d-a57431ca2c32	MMRF_1286	'--	'--	'--	no
+b09aab3d-c7ed-49b8-814a-c4218d72f5aa	MMRF_1541	'--	'--	'--	no
+751d6828-9826-49ce-884e-7194755bfadb	MMRF_1624	'--	'--	'--	no
