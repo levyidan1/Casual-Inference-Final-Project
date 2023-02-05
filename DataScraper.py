@@ -1,7 +1,7 @@
 """
 This file is used to scrape data from the MMRF-COMPASS website.
-Specifically, it goes over all the patients, and for each patient, it goes to the Follow-Ups tab,
-and then it goes over all the follow-ups, and for each follow-up, it saves the data in a CSV file.
+Specifically, it goes over all the patients, and saves the follow-ups data for each patient.
+This file is used to create the follow_ups_data.csv file.
 """
 from typing import List
 
@@ -43,8 +43,8 @@ def get_soup(driver: selenium.webdriver) -> BeautifulSoup:
 
 
 def get_case_ids() -> List[str]:
-    """Get the case IDs from clinical_data/clinical.tsv file."""
-    df = pd.read_csv("../clinical_data/clinical.tsv", sep="\t")
+    """Get the case IDs from clinical.tsv file."""
+    df = pd.read_csv("clinical.tsv", sep="\t")
     return list(set(df["case_id"].tolist()))
 
 
