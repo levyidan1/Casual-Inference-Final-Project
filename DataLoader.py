@@ -21,6 +21,10 @@ class ClinicalDataset(Dataset):
         self.cases = self.clinical_df["case_id"].unique()
         self.follow_ups = self.follow_ups_df["Follow-Up"].unique()
         self.markers = self.follow_ups_df["Laboratory Test"].unique()
+        self.marker_units_dict = {
+            marker: self.follow_ups_df[self.follow_ups_df["Laboratory Test"] == marker]["Test Units"].unique()[0]
+            for marker in self.markers
+        }
         self.cases = [case for case in self.cases if case in self.follow_ups_df["Case ID"].unique()]
         self.clinical_df.set_index("case_id", inplace=True)
         self.follow_ups_df.set_index("Case ID", inplace=True)

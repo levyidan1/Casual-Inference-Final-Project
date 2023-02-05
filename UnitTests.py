@@ -1,4 +1,6 @@
 import unittest
+
+import numpy as np
 import pandas as pd
 
 from DataLoader import ClinicalDataset
@@ -20,12 +22,12 @@ class MyTestCase(unittest.TestCase):
         print(f'Number of cases with only 1 follow-up: {len(set(cases) - set(follow_ups_df["Case ID"].unique()))}:')
         print(set(cases) - set(follow_ups_df["Case ID"].unique()))
 
-
     def test_number_of_follow_ups(self):
         df = pd.read_csv("follow_ups_data.csv")
         follow_ups = df["Follow-Up"].unique()
         self.assertEqual(len(follow_ups), 8591)
 
+    @unittest.skip("Skip test_manually")
     def test_manually(self):
         clinical_data_path = "clinical_sorted.tsv"
         follow_ups_data_path = "follow_ups_data.csv"
@@ -109,6 +111,47 @@ class MyTestCase(unittest.TestCase):
             f'Days from diagnosis to second line of therapy: {fourth_patient.get_days_from_diagnosis_to_line_of_therapy(lines_of_therapy[1])}')
         print(
             f'Days between first and second line of therapy: {fourth_patient.get_days_between_lines_of_therapy(lines_of_therapy[0], lines_of_therapy[1])}')
+
+    @unittest.skip("Takes too long to run")
+    def test_loading_data(self):
+        clinical_data_path = "clinical_sorted.tsv"
+        follow_ups_data_path = "follow_ups_data.csv"
+        dataset = ClinicalDataset(clinical_data_path, follow_ups_data_path)
+        for patient in dataset:
+            for follow_up in patient:
+                for test in follow_up:
+                    self.assertIsNotNone(test.name)
+
+    def test_data_distribution(self):
+        clinical_data_path = "clinical_sorted.tsv"
+        follow_ups_data_path = "follow_ups_data.csv"
+        dataset = ClinicalDataset(clinical_data_path, follow_ups_data_path)
+        markers = dataset.markers
+        data_distribution = {marker: 0 for marker in markers}
+        markers_count = {marker: 0 for marker in markers}
+        for patient in dataset:
+            for follow_up in patient:
+                for test in follow_up:
+                    data_distribution[test.name] += test.value
+                    markers_count[test.name] += 1
+        print(f'Data distribution: {data_distribution}')
+        average = {marker: data_distribution[marker] / markers_count[marker] for marker in markers}
+        print(f'Average: {average}')
+        marker_units = dataset.marker_units_dict
+        print(f'Marker units: {marker_units}')
+
+        data_distribution_first_follow_up = {marker: 0 for marker in markers}
+        markers_count_first_follow_up = {marker: 0 for marker in markers}
+        for patient in dataset:
+            for follow_up in patient:
+                for test in follow_up:
+                    data_distribution_first_follow_up[test.name] += test.value
+                    markers_count_first_follow_up[test.name] += 1
+                break
+        print(f'Data distribution first follow-up: {data_distribution_first_follow_up}')
+        average_first_follow_up = {marker: data_distribution_first_follow_up[marker] / markers_count_first_follow_up[marker] for marker in markers}
+        print(f'Average first follow-up: {average_first_follow_up}')
+
 
 
 if __name__ == '__main__':

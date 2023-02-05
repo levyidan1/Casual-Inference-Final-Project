@@ -3,6 +3,18 @@ from typing import Tuple
 import pandas as pd
 
 
+class TestData:
+    def __init__(self, marker: str, value: float):
+        self.name = marker
+        self.value = value
+
+    def __str__(self):
+        return f"Test name: {self.name}, Value: {self.value}"
+
+    def __repr__(self):
+        return self.__str__()
+
+
 class FollowUp:
     def __init__(self, follow_up_data: pd.DataFrame, follow_up_id: str):
         self.follow_up_data = follow_up_data
@@ -13,6 +25,9 @@ class FollowUp:
     def __len__(self) -> int:
         return len(self.markers)
 
-    def __getitem__(self, idx) -> Tuple[pd.DataFrame, str]:
+    def __getitem__(self, idx) -> TestData:
         marker = self.markers[idx]
-        return self.follow_up_data.loc[marker], marker
+        marker_value = self.follow_up_data[
+            self.follow_up_data["Laboratory Test"] == marker
+            ]["Test Value"].values[0]
+        return TestData(marker, marker_value)
