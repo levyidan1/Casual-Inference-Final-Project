@@ -1,3 +1,4 @@
+import statistics
 import unittest
 
 import numpy as np
@@ -19,8 +20,6 @@ class MyTestCase(unittest.TestCase):
         clinical_df = pd.read_csv("clinical.tsv", sep="\t")
         cases = clinical_df["case_id"].unique()
         self.assertEqual(len(cases), 995)
-        print(f'Number of cases with only 1 follow-up: {len(set(cases) - set(follow_ups_df["Case ID"].unique()))}:')
-        print(set(cases) - set(follow_ups_df["Case ID"].unique()))
 
     def test_number_of_follow_ups(self):
         df = pd.read_csv("follow_ups_data.csv")
@@ -122,6 +121,7 @@ class MyTestCase(unittest.TestCase):
                 for test in follow_up:
                     self.assertIsNotNone(test.name)
 
+    @unittest.skip("Takes too long to run")
     def test_data_distribution(self):
         clinical_data_path = "clinical_sorted.tsv"
         follow_ups_data_path = "follow_ups_data.csv"
@@ -151,6 +151,83 @@ class MyTestCase(unittest.TestCase):
         print(f'Data distribution first follow-up: {data_distribution_first_follow_up}')
         average_first_follow_up = {marker: data_distribution_first_follow_up[marker] / markers_count_first_follow_up[marker] for marker in markers}
         print(f'Average first follow-up: {average_first_follow_up}')
+
+    def test_averages(self):
+        line_of_therapy_txt_to_num = {'First line of therapy': 1, 'Second line of therapy': 2,
+                                      'Third line of therapy': 3, 'Fourth line of therapy': 4,
+                                      'Fifth line of therapy': 5, 'Sixth line of therapy': 6,
+                                      'Seventh line of therapy': 7, 'Eighth line of therapy': 8}
+
+        ages = []
+        gender_distribution = {'male': 0, 'female': 0}
+        race_distribution = {'white': 0, 'black or african american': 0, 'asian': 0, 'other/not reported': 0}
+
+        ethnicity_distribution = {'hispanic or latino': 0, 'not hispanic or latino': 0, 'not reported': 0}
+        most_common_treatment_regimnes_by_line_of_therapy = {1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}}
+
+        clinical_data_path = "clinical_sorted.csv"
+        follow_ups_data_path = "follow_ups_data.csv"
+        dataset = ClinicalDataset(clinical_data_path, follow_ups_data_path)
+        count = 0
+        for index in range(len(dataset)):
+            patient = dataset[index]
+            count += 1
+            print(f'patient case id: {patient.case_id}')
+
+        for index in range(len(dataset)):
+            patient = dataset[index]
+            try:
+                patient_age_in_days = patient.clinical_data.age_at_diagnosis
+                patient_age_in_years = patient_age_in_days / 365
+                ages.append(patient_age_in_years)
+                gender = patient.clinical_data.gender
+                gender_distribution[gender] += 1
+                race = patient.clinical_data.race
+                if race in race_distribution:
+                    race_distribution[race] += 1
+                else:
+                    race_distribution['other/not reported'] += 1
+                ethnicity = patient.clinical_data.ethnicity
+                if ethnicity in ethnicity_distribution:
+                    ethnicity_distribution[ethnicity] += 1
+                else:
+                    ethnicity_distribution['not reported'] += 1
+                line_of_therapy_names = patient.get_line_of_therapy_names()
+                for line_of_therapy_name in line_of_therapy_names:
+                    line_of_therapy_num = line_of_therapy_txt_to_num[line_of_therapy_name]
+                    therapeutic_agents = patient.get_therapeutic_agents_in_line_of_therapy(line_of_therapy_name)
+                    for therapeutic_agent in therapeutic_agents:
+                        if therapeutic_agent in most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num]:
+                            most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num][therapeutic_agent] += 1
+                        else:
+                            most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num][therapeutic_agent] = 1
+
+            except Exception as e:
+                print(f'Error: {e} for patient {patient.case_id}')
+        print(f'count: {count}')
+
+        total_length = len(dataset)
+        print(f'Total length: {total_length}')
+        median_age = statistics.median(ages)
+        youngest_age = min(ages)
+        oldest_age = max(ages)
+        print(f'Median age: {median_age}')
+        print(f'Youngest age: {youngest_age}')
+        print(f'Oldest age: {oldest_age}')
+        print(f'Gender Distribution: {gender_distribution}')
+        print(f'Race Distribution: {race_distribution}')
+        print(f'Most common treatment regimnes by line of therapy: {most_common_treatment_regimnes_by_line_of_therapy}')
+
+
+
+            
+            
+
+
+        
+
+
+
 
 
 
