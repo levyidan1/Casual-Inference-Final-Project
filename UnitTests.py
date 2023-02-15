@@ -149,21 +149,41 @@ class MyTestCase(unittest.TestCase):
                     markers_count_first_follow_up[test.name] += 1
                 break
         print(f'Data distribution first follow-up: {data_distribution_first_follow_up}')
-        average_first_follow_up = {marker: data_distribution_first_follow_up[marker] / markers_count_first_follow_up[marker] for marker in markers}
+        average_first_follow_up = {
+            marker: data_distribution_first_follow_up[marker] / markers_count_first_follow_up[marker] for marker in
+            markers}
         print(f'Average first follow-up: {average_first_follow_up}')
+
+    def test_avg_num_of_days_of_followup_before_first_treatment_line(self):
+        clinical_data_path = "clinical_sorted.tsv"
+        follow_ups_data_path = "follow_ups_data.csv"
+        dataset = ClinicalDataset(clinical_data_path, follow_ups_data_path)
+        num_of_days = []
+        for patient in dataset:
+            lines_of_therapy = patient.get_line_of_therapy_names()
+            if follow_ups_before_first_line_of_therapy := patient.get_follow_ups_before_line_of_therapy(
+                    lines_of_therapy[0]
+            ):
+                num_of_days.append(follow_ups_before_first_line_of_therapy[0].days_to_follow_up)
+        print(f'Average number of days of follow-up before first treatment line: {sum(num_of_days) / len(num_of_days)}')
+        print(f'Number of patients with follow-up before first treatment line: {len(num_of_days)}')
 
     def test_averages(self):
         line_of_therapy_txt_to_num = {'First line of therapy': 1, 'Second line of therapy': 2,
                                       'Third line of therapy': 3, 'Fourth line of therapy': 4,
                                       'Fifth line of therapy': 5, 'Sixth line of therapy': 6,
-                                      'Seventh line of therapy': 7, 'Eighth line of therapy': 8, 'Liposomal Doxorubicin Regimen': 9}
+                                      'Seventh line of therapy': 7, 'Eighth line of therapy': 8,
+                                      'Liposomal Doxorubicin Regimen': 9}
 
         ages = []
         gender_distribution = {'male': 0, 'female': 0}
         race_distribution = {'white': 0, 'black or african american': 0, 'asian': 0, 'other/not reported': 0}
 
         ethnicity_distribution = {'hispanic or latino': 0, 'not hispanic or latino': 0, 'not reported': 0}
-        most_common_treatment_regimnes_by_line_of_therapy = {1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}}
+        most_common_treatment_regimnes_by_line_of_therapy = {1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {},
+                                                             9: {}}
+        num_theurepatic_agents_per_treatment_line_per_patient = {1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [],
+                                                                 9: []}
         total_number_of_treatment_lines = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0}
         survival_time = []
 
@@ -193,9 +213,13 @@ class MyTestCase(unittest.TestCase):
                     therapeutic_agents = patient.get_therapeutic_agents_in_line_of_therapy(line_of_therapy_name)
                     for therapeutic_agent in therapeutic_agents:
                         if therapeutic_agent in most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num]:
-                            most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num][therapeutic_agent] += 1
+                            most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num][
+                                therapeutic_agent] += 1
                         else:
-                            most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num][therapeutic_agent] = 1
+                            most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num][
+                                therapeutic_agent] = 1
+                    num_theurepatic_agents_per_treatment_line_per_patient[line_of_therapy_num].append(
+                        len(therapeutic_agents))
                     total_number_of_treatment_lines[line_of_therapy_num] += 1
                 if patient.clinical_data.days_to_death is not None:
                     survival_time.append(patient.clinical_data.days_to_death)
@@ -220,18 +244,16 @@ class MyTestCase(unittest.TestCase):
         average_survival_time = statistics.mean(survival_time)
         print(f'Average survival time: {average_survival_time}')
         print(f'Total number of survival times: {len(survival_time)}')
-
-
-
-            
-            
-
-
-        
-
-
-
-
+        avg_num_theurepatic_agents_per_treatment_line_per_patient = {
+            line_of_therapy_num: statistics.mean(
+                num_theurepatic_agents_per_treatment_line_per_patient[
+                    line_of_therapy_num
+                ]
+            )
+            for line_of_therapy_num in num_theurepatic_agents_per_treatment_line_per_patient
+        }
+        print(
+            f'Average number of theurepatic agents per treatment line per patient: {avg_num_theurepatic_agents_per_treatment_line_per_patient}')
 
 
 if __name__ == '__main__':

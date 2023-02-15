@@ -55,3 +55,4 @@ class ClinicalDataset(Dataset):
         test_size = len(self) - train_size
         train_dataset, test_dataset = random_split(self, [train_size, test_size])
         return train_dataset, test_dataset
+
