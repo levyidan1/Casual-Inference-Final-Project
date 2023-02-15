@@ -156,29 +156,24 @@ class MyTestCase(unittest.TestCase):
         line_of_therapy_txt_to_num = {'First line of therapy': 1, 'Second line of therapy': 2,
                                       'Third line of therapy': 3, 'Fourth line of therapy': 4,
                                       'Fifth line of therapy': 5, 'Sixth line of therapy': 6,
-                                      'Seventh line of therapy': 7, 'Eighth line of therapy': 8}
+                                      'Seventh line of therapy': 7, 'Eighth line of therapy': 8, 'Liposomal Doxorubicin Regimen': 9}
 
         ages = []
         gender_distribution = {'male': 0, 'female': 0}
         race_distribution = {'white': 0, 'black or african american': 0, 'asian': 0, 'other/not reported': 0}
 
         ethnicity_distribution = {'hispanic or latino': 0, 'not hispanic or latino': 0, 'not reported': 0}
-        most_common_treatment_regimnes_by_line_of_therapy = {1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}}
+        most_common_treatment_regimnes_by_line_of_therapy = {1: {}, 2: {}, 3: {}, 4: {}, 5: {}, 6: {}, 7: {}, 8: {}, 9: {}}
+        total_number_of_treatment_lines = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0}
+        survival_time = []
 
         clinical_data_path = "clinical_sorted.csv"
         follow_ups_data_path = "follow_ups_data.csv"
         dataset = ClinicalDataset(clinical_data_path, follow_ups_data_path)
-        count = 0
-        for index in range(len(dataset)):
-            patient = dataset[index]
-            count += 1
-            print(f'patient case id: {patient.case_id}')
-
         for index in range(len(dataset)):
             patient = dataset[index]
             try:
-                patient_age_in_days = patient.clinical_data.age_at_diagnosis
-                patient_age_in_years = patient_age_in_days / 365
+                patient_age_in_years = patient.clinical_data.age_at_index
                 ages.append(patient_age_in_years)
                 gender = patient.clinical_data.gender
                 gender_distribution[gender] += 1
@@ -201,13 +196,16 @@ class MyTestCase(unittest.TestCase):
                             most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num][therapeutic_agent] += 1
                         else:
                             most_common_treatment_regimnes_by_line_of_therapy[line_of_therapy_num][therapeutic_agent] = 1
+                    total_number_of_treatment_lines[line_of_therapy_num] += 1
+                if patient.clinical_data.days_to_death is not None:
+                    survival_time.append(patient.clinical_data.days_to_death)
 
             except Exception as e:
-                print(f'Error: {e} for patient {patient.case_id}')
-        print(f'count: {count}')
+                print(f'Error: {e} for patient {patient.case_id}, index: {index}')
 
         total_length = len(dataset)
         print(f'Total length: {total_length}')
+        print(f'Total number of ages: {len(ages)}')
         median_age = statistics.median(ages)
         youngest_age = min(ages)
         oldest_age = max(ages)
@@ -216,7 +214,12 @@ class MyTestCase(unittest.TestCase):
         print(f'Oldest age: {oldest_age}')
         print(f'Gender Distribution: {gender_distribution}')
         print(f'Race Distribution: {race_distribution}')
+        print(f'Ethnicity: {ethnicity_distribution}')
         print(f'Most common treatment regimnes by line of therapy: {most_common_treatment_regimnes_by_line_of_therapy}')
+        print(f'Total number of treatment lines: {total_number_of_treatment_lines}')
+        average_survival_time = statistics.mean(survival_time)
+        print(f'Average survival time: {average_survival_time}')
+        print(f'Total number of survival times: {len(survival_time)}')
 
 
 

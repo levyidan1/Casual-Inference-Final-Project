@@ -28,7 +28,9 @@ class Patient:
         return self.follow_ups[idx]
 
     def get_line_of_therapy_names(self) -> List[str]:
-        return self.clinical_data.treatment_lines_data["regimen_or_line_of_therapy"].unique()
+        return list(self.clinical_data.treatment_lines_data["regimen_or_line_of_therapy"].unique())
+
+
 
     def get_follow_ups_in_line_of_therapy(self, line_of_therapy: str) -> List[FollowUp]:
         """ Returns follow-ups that are in the given line of therapy.
