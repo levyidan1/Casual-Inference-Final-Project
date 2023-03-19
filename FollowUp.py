@@ -31,3 +31,11 @@ class FollowUp:
             self.follow_up_data["Laboratory Test"] == marker
             ]["Test Value"].values[0]
         return TestData(marker, marker_value)
+
+    def marker2val(self, marker) -> float:
+        marker_values = self.follow_up_data[
+            self.follow_up_data["Laboratory Test"] == marker
+            ]["Test Value"].values
+        if len(marker_values)==0:
+            return None
+        return marker_values[0]
